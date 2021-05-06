@@ -6,6 +6,7 @@ exports.mysql = async (req, res, next) => {
   var con = mysql.createConnection({
     host: "localhost",
     user: "uvirtual_admin",
+    database: "uvirtual_academico",
     password: "Xeon1972Peer1",
   });
 
