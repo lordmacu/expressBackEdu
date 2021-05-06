@@ -13,7 +13,9 @@ var personSchema = new Schema({
     year:Number,
     startDate:Date,
     endDate: Date,
-    active:Boolean
+    active: Boolean,
+        idPlatform:Number
+
  
 }, {
     timestamps: true

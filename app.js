@@ -17,13 +17,16 @@ var types = require('./routes/types');
 var statuses = require('./routes/statuses');
 var providers = require('./routes/providers');
 var books = require('./routes/books');
+var tutors = require('./routes/tutors');
 
 var app = express();
 app.use(cors());
 
-app.use(bodyParser.json());
-app.use(bodyParser.urlencoded({ extended: false }));
+app.use(bodyParser.json({ limit: '50mb' }));
+app.use(bodyParser.urlencoded({ extended: false,limit: '50mb' }));
 app.use(cookieParser())
+ 
+
 
 app.use(express.static('public'));
 
@@ -40,5 +43,6 @@ app.use( '/api/statuses', statuses);
 app.use( '/api/types', types);
 app.use( '/api/providers', providers);
 app.use( '/api/books', books);
+app.use( '/api/tutors', tutors);
  
 module.exports = app;

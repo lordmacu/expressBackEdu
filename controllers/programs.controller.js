@@ -1,11 +1,29 @@
 const Items = require('../dao/programs');
+const Helpers = require("../bin/helpers");
 
-exports.createItem = function (req, res, next) {
+exports.createItem =  async function (req, res, next) {
     var item=req.body;
     if(item.id==0){
         delete req.body.id;
     }
     item.active = true;
+     if (!!req.body.reglamento.file) {
+    const reglamento = await Helpers.upload(
+      req.body.reglamento.file,
+      "reglamentos/"
+    );
+
+    item.reglamento = reglamento;
+    }
+    
+    if (!!req.body.brochure.file) {
+    const brochure = await Helpers.upload(
+      req.body.brochure.file,
+      "brochures/"
+    );
+
+    item.brochure = brochure;
+  }
     
  
     Items.create( item, function(err, item) {
@@ -100,7 +118,7 @@ exports.cloneItem = function(req, res, next) {
         
     })
 }
-exports.updateItem = function(req, res, next) {
+exports.updateItem = async function(req, res, next) {
 
     let item=req.body;
     let id=item.id;
@@ -108,6 +126,25 @@ exports.updateItem = function(req, res, next) {
     if(item.id==0){
         delete item.id;
     }
+
+    if (!!req.body.reglamento.file) {
+    const reglamento = await Helpers.upload(
+      req.body.reglamento.file,
+      "reglamentos/"
+    );
+
+    item.reglamento = reglamento;
+    }
+    
+    if (!!req.body.brochure.file) {
+    const brochure = await Helpers.upload(
+      req.body.brochure.file,
+      "brochures/"
+    );
+
+    item.brochure = brochure;
+  }
+
    
     Items.update({_id: id}, item, function(err, item) {
         if(err) {

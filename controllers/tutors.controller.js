@@ -1,21 +1,12 @@
-const Items = require("../dao/subjects");
-const Helpers = require("../bin/helpers");
-exports.createItem =  async function (req, res, next) {
+const Items = require("../dao/tutor");
+
+exports.createItem = function (req, res, next) {
   var item = req.body;
   if (item.id == 0) {
     delete req.body.id;
   }
-    item.active = true;
-    
-    
-  if (!!req.body.planAnalitico.file) {
-    const planAnalitico = await Helpers.upload(
-      req.body.planAnalitico.file,
-      "planesAnaliticos/"
-    );
-
-    item.planAnalitico = planAnalitico;
-  }
+ 
+  item.name = "tutor 5";
 
   Items.create(item, function (err, item) {
     if (err) {
@@ -61,12 +52,33 @@ exports.getItems = function (req, res, next) {
       page: req.body.page,
       limit: req.body.perPage,
       sort: sort,
-      populate: ["type", "status"],
+      populate: ["country"],
     },
     function (err, result) {
       res.json(result);
     }
   );
+};
+
+exports.getAllItems = function (req, res, next) {
+  Items.getAll({}, function (err, items) {
+    if (err) {
+      res.json({
+        error: err,
+      });
+    } else {
+      
+
+         var formatedResults=[];
+        items.forEach(element => {
+            var localResult={"value":element["name"],"label":element["name"],"_id":element["_id"]};
+            formatedResults.push(localResult);
+        });
+        res.json({
+            items: formatedResults
+        })
+    }
+  });
 };
 
 exports.getItem = function (req, res, next) {
@@ -91,33 +103,28 @@ exports.cloneItem = function (req, res, next) {
       });
     } else {
       const {
-        sigla,
-        version,
         name,
-        credits,
-        hours,
-        content,
-        status,
-        type,
-        startDate,
-        endDate,
+        contactForm,
+        address,
+        city,
+        phone,
+        email,
+        web,
+        country,
         active,
-        price,
       } = itemQuery;
+
       Items.create(
         {
-          sigla,
-          version,
           name,
-          credits,
-          hours,
-          content,
-          status,
-          type,
-          startDate,
-          endDate,
+          contactForm,
+          address,
+          city,
+          phone,
+          email,
+          web,
+          country,
           active,
-          price,
         },
         function (err, item) {
           if (err) {
@@ -142,22 +149,12 @@ exports.cloneItem = function (req, res, next) {
     }
   });
 };
-
-exports.updateItem = async function (req, res, next) {
+exports.updateItem = function (req, res, next) {
   let item = req.body;
   let id = item.id;
 
   if (item.id == 0) {
     delete item.id;
-  }
-
-  if (!!req.body.planAnalitico.file) {
-    const planAnalitico = await Helpers.upload(
-      req.body.planAnalitico.file,
-      "planesAnaliticos/"
-    );
-
-    item.planAnalitico = planAnalitico;
   }
 
   Items.update({ _id: id }, item, function (err, item) {

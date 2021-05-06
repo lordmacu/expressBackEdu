@@ -9,7 +9,9 @@ var personSchema = new Schema(
     hours: Number,
     content: String,
     type: String,
+    price: Number,
     status: String,
+    planAnalitico:String,
     startDate: Date,
     endDate: Date,
     active: Boolean,
@@ -21,6 +23,8 @@ var personSchema = new Schema(
       type: Schema.Types.ObjectId,
       ref: "Type",
     },
+        idPlatform:Number
+
   },
   {
     timestamps: true,

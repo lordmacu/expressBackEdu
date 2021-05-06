@@ -18,14 +18,18 @@ var personSchema = new Schema({
         ref:"Person"
     },
     studentProfile: String,
-    name:String,
+    name: String,
+    reglamento: String,
+    brochure:String,
     title:String,
     price:Number,
     period:Number,
     year:Number,
     startDate:Date,
     endDate: Date,
-    active:Boolean
+    active: Boolean,
+        idPlatform:Number
+
 
 }, {
     timestamps: true

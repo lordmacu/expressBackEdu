@@ -2,7 +2,9 @@ var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
 var itemSchema = new Schema({
     name:'String',
-    id:'String'
+    id: 'String',
+        idPlatform:Number
+
  }, {
     timestamps: true
 });

@@ -14,6 +14,8 @@ var itemSchema = new Schema(
     email: String,
     web: String,
     active: Boolean,
+        idPlatform:Number
+
   },
   {
     timestamps: true,

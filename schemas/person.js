@@ -25,7 +25,9 @@ var personSchema = new Schema({
     image:String,
     curriculum:String,
     password:String,
-    commentary:String 
+    commentary: String,
+        idPlatform:Number
+
  
 }, {
     timestamps: true
