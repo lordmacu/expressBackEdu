@@ -15,5 +15,6 @@ var storage = multer.diskStorage({
 var upload = multer({ storage: storage })
 
 router.post('/upload', upload.single('files'), Archives.upload);
+router.post('/testMysql', Archives.mysql);
  
 module.exports = router;
