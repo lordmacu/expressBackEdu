@@ -4,7 +4,16 @@ const Items = require('../dao/aggrement');
 
 exports.createItem = function (req, res, next) {
 
-    Items.create({ "name": "UPSA", "id": "7" }, function (err, item) {
+    Items.create({ "name": "Brinks", "id": "3" }, function (err, item) { })
+    Items.create({ "name": "Educacion Continua", "id": "6" }, function (err, item) { })
+    Items.create({ "name": "Universidad Arturo Prat", "id": "5" }, function (err, item) { })
+    Items.create({ "name": "Universidad de Salamanca", "id": "4" }, function (err, item) { })
+    Items.create({ "name": "Universidad del Mar - UDM (Chile)", "id": "2" }, function (err, item) { })
+    Items.create({ "name": "Universidad Guglielmo Marconi", "id": "8" }, function (err, item) { })
+    Items.create({ "name": "Universidad Viña del Mar - UVM (Chile)", "id": "1" }, function (err, item) { })
+    Items.create({ "name": "UPSA", "id": "7" }, function (err, item) { })
+
+   /* Items.create({ "name": "UPSA", "id": "7" }, function (err, item) {
             if(err) {
                 res.json({
                     error : err
@@ -13,7 +22,7 @@ exports.createItem = function (req, res, next) {
             res.json({
                 message : "Item countries successfully"
             })
-        })
+        })*/
 
      
 }

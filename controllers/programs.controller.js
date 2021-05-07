@@ -184,19 +184,26 @@ exports.updateItem = async function (req, res, next) {
     delete item.id;
   }
 
-  if (!!req.body.reglamento.file) {
-    const reglamento = await Helpers.upload(
-      req.body.reglamento.file,
-      "reglamentos/"
-    );
+  if (!!req.body.reglamento) {
+    if (!!req.body.reglamento.file) {
+      const reglamento = await Helpers.upload(
+        req.body.reglamento.file,
+        "reglamentos/"
+      );
 
-    item.reglamento = reglamento;
+      item.reglamento = reglamento;
+    }
   }
 
-  if (!!req.body.brochure.file) {
-    const brochure = await Helpers.upload(req.body.brochure.file, "brochures/");
+  if (!!req.body.brochure) {
+    if (!!req.body.brochure.file) {
+      const brochure = await Helpers.upload(
+        req.body.brochure.file,
+        "brochures/"
+      );
 
-    item.brochure = brochure;
+      item.brochure = brochure;
+    }
   }
 
   Items.update({ _id: id }, item, function (err, item) {

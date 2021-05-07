@@ -3,7 +3,7 @@ var Schema = mongoose.Schema;
 var itemSchema = new Schema({
     name:'String',
     id: 'String',
-        idPlatform:Number
+    idPlatform:Number
 
  }, {
     timestamps: true
