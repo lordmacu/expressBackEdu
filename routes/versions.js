@@ -8,6 +8,6 @@ router.post('/program/:program/:version', Versions.getProgramItem);
 router.post('/create', Versions.createItem);
 router.post('/get', Versions.getItems);
 router.delete('/remove/:id', Versions.removeItem);
-router.put('/update/:id', Versions.getItems);
+router.put('/update/:id', Versions.updateItem);
 
 module.exports = router;

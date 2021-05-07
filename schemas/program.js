@@ -28,7 +28,10 @@ var personSchema = new Schema({
     startDate:Date,
     endDate: Date,
     active: Boolean,
-        idPlatform:Number
+    idPlatform: Number,
+    subjects : [
+        {type: Schema.Types.ObjectId,ref:'Subject'}
+    ],
 
 
 }, {

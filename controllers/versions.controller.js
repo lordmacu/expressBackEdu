@@ -13,6 +13,12 @@ exports.createItem = function (req, res, next) {
   item.active = true;
   item.program = req.body.id;
 
+  item.priceTeacher = 0;
+  item.priceDirector = 0;
+  item.priceCoordinator = 0;
+  item.priceTutorTfm = 0;
+
+
   Items.create(item, function (err, item) {
     if (err) {
       res.json({

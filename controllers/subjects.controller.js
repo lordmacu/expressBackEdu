@@ -1,20 +1,21 @@
 const Items = require("../dao/subjects");
 const Helpers = require("../bin/helpers");
-exports.createItem =  async function (req, res, next) {
+exports.createItem = async function (req, res, next) {
   var item = req.body;
   if (item.id == 0) {
     delete req.body.id;
   }
-    item.active = true;
-    
-    
-  if (!!req.body.planAnalitico.file) {
-    const planAnalitico = await Helpers.upload(
-      req.body.planAnalitico.file,
-      "planesAnaliticos/"
-    );
+  item.active = true;
 
-    item.planAnalitico = planAnalitico;
+  if (req.body.planAnalitico != null) {
+    if (!!req.body.planAnalitico.file) {
+      const planAnalitico = await Helpers.upload(
+        req.body.planAnalitico.file,
+        "planesAnaliticos/"
+      );
+
+      item.planAnalitico = planAnalitico;
+    }
   }
 
   Items.create(item, function (err, item) {
@@ -30,6 +31,51 @@ exports.createItem =  async function (req, res, next) {
   });
 };
 
+exports.find = function (req, res, next) {
+  let query = { active: true };
+  let queryParams = [];
+
+  if (!!req.body.q) {
+    let columnSearch = ["name", "sigla", "version"];
+
+    for (var c = 0; c < columnSearch.length; c++) {
+      const queryData = {};
+      var re = new RegExp(req.body.q, "i");
+
+      queryData[columnSearch[c]] = { $regex: re };
+      queryParams.push(queryData);
+    }
+    query = { $or: queryParams, active: true };
+  }
+
+  const sort = {};
+  sort["_id"] = -1;
+
+  console.log(query);
+  Items.paginate(
+    query,
+    {
+      page: 0,
+      limit: 200,
+      sort: sort,
+    },
+    function (err, result) {
+      var formatedResults = [];
+      result.docs.forEach((element) => {
+        var localResult = {
+          value: element["id"],
+          label: element["name"],
+          _id: element["_id"],
+        };
+        formatedResults.push(localResult);
+      });
+      res.json({
+        items: formatedResults,
+      });
+    }
+  );
+};
+
 exports.getItems = function (req, res, next) {
   let query = { active: true };
   let queryParams = [];
@@ -38,7 +84,6 @@ exports.getItems = function (req, res, next) {
     let columnSearch = req.body.columns;
 
     for (var c = 0; c < columnSearch.length; c++) {
-      console.log(req.body.q);
       const queryData = {};
       var re = new RegExp(req.body.q, "i");
 
@@ -61,7 +106,7 @@ exports.getItems = function (req, res, next) {
       page: req.body.page,
       limit: req.body.perPage,
       sort: sort,
-      populate: ["type", "status"],
+      populate: ["type", "status", "tutors", "principalTutor", "students"],
     },
     function (err, result) {
       res.json(result);
@@ -80,6 +125,46 @@ exports.getItem = function (req, res, next) {
         items: items,
       });
     }
+  });
+};
+
+exports.deleteTutor = function (req, res, next) {
+  Items.removeTutor(req.body, function (err, itemQuery) {
+    res.json({
+      message: "Item updated successfully",
+    });
+  });
+};
+
+exports.deleteStudent = function (req, res, next) {
+  Items.deleteStudent(req.body, function (err, itemQuery) {
+    res.json({
+      message: "Item updated successfully",
+    });
+  });
+};
+
+exports.setPrincpalTeacher = function (req, res, next) {
+  Items.setPrincpalTeacher(req.body, function (err, itemQuery) {
+    res.json({
+      message: "Item updated successfully",
+    });
+  });
+};
+
+exports.addTutor = function (req, res, next) {
+  Items.addTutor(req.body, function (err, itemQuery) {
+    res.json({
+      message: "Item updated successfully",
+    });
+  });
+};
+
+exports.addStudent = function (req, res, next) {
+  Items.addStudent(req.body, function (err, itemQuery) {
+    res.json({
+      message: "Item updated successfully",
+    });
   });
 };
 

@@ -11,6 +11,10 @@ var personSchema = new Schema({
         ref:"Program"
     },
     year:Number,
+    priceTeacher:Number,
+    priceDirector:Number,
+    priceCoordinator:Number,
+    priceTutorTfm:Number,
     startDate:Date,
     endDate: Date,
     active: Boolean,

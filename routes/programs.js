@@ -9,4 +9,7 @@ router.get('/get/:id', Program.getItem);
 router.put('/update/:id', Program.updateItem);
 router.delete('/remove/:id', Program.removeItem);
 
+router.post('/addSubject', Program.addSubject);
+router.post('/deleteSubjectPost', Program.deleteSubject);
+
 module.exports = router;

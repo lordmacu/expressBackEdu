@@ -9,4 +9,13 @@ router.get('/get/:id', Item.getItem);
 router.put('/update/:id', Item.updateItem);
 router.delete('/remove/:id', Item.removeItem);
 
+router.post('/deleteStudent', Item.deleteStudent);
+
+router.post('/addStudent', Item.addStudent);
+
+router.post('/addTutor', Item.addTutor);
+router.post('/deleteTutor', Item.deleteTutor);
+router.post('/setPrincpalTeacher', Item.setPrincpalTeacher);
+router.post('/find', Item.find);
+
 module.exports = router;

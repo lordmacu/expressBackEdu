@@ -62,10 +62,29 @@ exports.getItems = function(req, res, next) {
         sort["_id"]=-1
     }
     
-     Items.paginate(query, { page: req.body.page, limit: req.body.perPage,sort:sort,  populate: ['coordinatorAcad','directorAcad','agreement'],}, function (err, result) {
+     Items.paginate(query, { page: req.body.page, limit: req.body.perPage,sort:sort,  populate: ['coordinatorAcad','directorAcad','agreement','subjects'],}, function (err, result) {
          res.json(result)
      })
- }
+}
+ 
+exports.addSubject = function (req, res, next) {
+  Items.addSubject(req.body, function (err, itemQuery) {
+    res.json({
+      message: "Item updated successfully",
+    });
+  });
+};
+
+
+
+exports.deleteSubject = function (req, res, next) {
+  Items.deleteSubject(req.body, function (err, itemQuery) {
+    res.json({
+      message: "Item updated successfully",
+    });
+  });
+};
+
 
 exports.getItem = function(req, res, next) {
     Items.get({_id: req.params.id}, function(err, items) {

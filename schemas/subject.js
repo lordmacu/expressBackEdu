@@ -23,6 +23,16 @@ var personSchema = new Schema(
       type: Schema.Types.ObjectId,
       ref: "Type",
     },
+    principalTutor: {
+      type: Schema.Types.ObjectId,
+      ref: "Tutor",
+    },
+     tutors : [
+        {type: Schema.Types.ObjectId,ref:'Tutor'}
+    ],
+      students : [
+        {type: Schema.Types.ObjectId,ref:'Person'}
+    ],
         idPlatform:Number
 
   },
