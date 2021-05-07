@@ -6,7 +6,7 @@ const Country = require('../dao/country');
 
 exports.populatePlatform = function (req, res, next) {
 
-  deleteAll.deleteAll({}, function (err, item) {});
+  Country.deleteAll({}, function (err, item) {});
 
   Country.create({ name: "Argentina",code:"ARG" }, function (err, item) { });
   Country.create({ name: "Colombia",code:"CO" }, function (err, item) { });
