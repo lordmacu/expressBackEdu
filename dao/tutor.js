@@ -27,6 +27,9 @@ itemSchema.statics = {
     update: function(query, updateData, cb) {
         this.findOneAndUpdate(query, {$set: updateData},{new: true}, cb);
     },
+     deleteAll: function(query, cb) {
+         this.deleteMany({},cb);
+    },
 
     delete: function(query, cb) {
         this.findOneAndDelete(query,cb);

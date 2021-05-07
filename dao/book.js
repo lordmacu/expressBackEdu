@@ -27,6 +27,9 @@ itemSchema.statics = {
 
     delete: function(query, cb) {
         this.findOneAndDelete(query,cb);
+    },
+     deleteAll: function(query, cb) {
+         this.deleteMany({},cb);
     }
 }
 itemSchema.plugin(mongoosePaginate);
