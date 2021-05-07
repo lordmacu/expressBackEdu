@@ -12,19 +12,6 @@ exports.createItem = function (req, res, next) {
     Items.create({ "name": "Universidad Guglielmo Marconi", "id": "8" }, function (err, item) { })
     Items.create({ "name": "Universidad Viña del Mar - UVM (Chile)", "id": "1" }, function (err, item) { })
     Items.create({ "name": "UPSA", "id": "7" }, function (err, item) { })
-
-   /* Items.create({ "name": "UPSA", "id": "7" }, function (err, item) {
-            if(err) {
-                res.json({
-                    error : err
-                })
-            }
-            res.json({
-                message : "Item countries successfully"
-            })
-        })*/
-
-     
 }
 
  
