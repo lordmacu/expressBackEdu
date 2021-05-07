@@ -2,8 +2,16 @@ const Statuses = require("../dao/statuses");
 const Types = require("../dao/types");
 const Aggrement = require("../dao/aggrement");
 const Tutor = require("../dao/tutor");
+const Country = require('../dao/country');
 
 exports.populatePlatform = function (req, res, next) {
+
+  deleteAll.deleteAll({}, function (err, item) {});
+
+  Country.create({ name: "Argentina",code:"ARG" }, function (err, item) { });
+  Country.create({ name: "Colombia",code:"CO" }, function (err, item) { });
+  Country.create({ name: "Uruguay",code:"UR" }, function (err, item) { });
+  Country.create({ name: "Bolivia",code:"BO" }, function (err, item) { });
 
 
   Tutor.deleteAll({}, function (err, item) {});

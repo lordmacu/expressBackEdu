@@ -30,6 +30,9 @@ countrySchema.statics = {
     count: function(query, cb) {
        return  this.countDocuments({});
     },
+     deleteAll: function(query, cb) {
+         this.deleteMany({},cb);
+    },
     paginate: function(query, cb) {
         
      }
