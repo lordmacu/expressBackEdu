@@ -1,2 +1,8 @@
 ./node_modules
 node_modules
+./bin/wwwdev
+/bin/wwwdev
+/uploads
+.env
+Local.crt
+Local.key
