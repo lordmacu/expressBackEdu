@@ -1,6 +1,6 @@
 var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
-var countrySchema = new Schema({
+var itemSchema = new Schema({
     name:'String',
     code: 'String',
         idPlatform:Number
@@ -9,4 +9,4 @@ var countrySchema = new Schema({
     timestamps: true
 });
  
-module.exports = countrySchema;
+module.exports = itemSchema;

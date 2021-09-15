@@ -1,6 +1,6 @@
 var mongoose = require("mongoose");
 var Schema = mongoose.Schema;
-var personSchema = new Schema(
+var itemSchema = new Schema(
   {
     name: String,
     contactForm: String,
@@ -22,4 +22,4 @@ var personSchema = new Schema(
   }
 );
 
-module.exports = personSchema;
+module.exports = itemSchema;
