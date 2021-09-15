@@ -1,6 +1,6 @@
 var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
-var personSchema = new Schema({
+var itemSchema = new Schema({
     name:String,
     value: String,
         idPlatform:Number
@@ -11,4 +11,4 @@ var personSchema = new Schema({
     timestamps: true
 });
 
-module.exports = personSchema;
+module.exports = itemSchema;

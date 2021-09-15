@@ -1,6 +1,6 @@
 var mongoose = require("mongoose");
 var Schema = mongoose.Schema;
-var personSchema = new Schema(
+var itemSchema = new Schema(
   {
     sigla: String,
     version: String,
@@ -41,4 +41,4 @@ var personSchema = new Schema(
   }
 );
 
-module.exports = personSchema;
+module.exports = itemSchema;
