@@ -48,16 +48,10 @@ const dbMongo = async(log=false)=>{
 
   } catch (error) {
       console.log(error);
-      //throw new Error('Error al iniciar la base de datos');
   }
 
 }
-
-// test();
-
-
-//db.sync();
-
+ 
 module.exports = {
   conectionTest,
   dbMongo,
