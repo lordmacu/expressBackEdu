@@ -1,0 +1,6 @@
+PORT=8081
+MONGODB_CNN=mongodb://localhost:27017/uvacademico?readPreference=primary&appname=MongoDB%20Compass&ssl=false
+DB_HOST=localhost
+DB_MYSQL=uvacademico
+DB_MYSQL_USER=root
+DB_MYSQL_PASSWORD=

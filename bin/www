@@ -6,19 +6,12 @@
 
 var app = require('../app');
 var debug = require('debug')('express:server');
-var https = require('https');
-var fs = require("fs");
-
-const mongoose= require('mongoose');
-mongoose.connect('mongodb://localhost:27017/api?readPreference=primary&appname=MongoDB%20Compass&ssl=false', {
-  useNewUrlParser: true,
-  useUnifiedTopology: true
-}).then((db)=>{
-  console.log("se conecto al mongo");  
-}).catch(err=>console.log(err))
-/**
- * Get port from environment and store in Express.
- */
+var http = require('http');
+const  {dbMongo,conectionTest}  = require('../db/conection');
+ 
+dbMongo();
+conectionTest();
+ 
 
 var port = normalizePort(process.env.PORT || '3000');
 app.set('port', port);
@@ -27,10 +20,7 @@ app.set('port', port);
  * Create HTTP server.
  */
 
-var server = https.createServer({
-  key: fs.readFileSync('server.key'),
-  cert: fs.readFileSync('server.cert')
-},app);
+var server = http.createServer(app);
 
 /**
  * Listen on provided port, on all network interfaces.
