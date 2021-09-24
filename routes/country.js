@@ -4,5 +4,6 @@ var router = express.Router();
  
 router.post('/create', Country.createItem);
 router.post('/get', Country.getItems);
+router.get('/getAll', Country.getItemsAll);
 
 module.exports = router;

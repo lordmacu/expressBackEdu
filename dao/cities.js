@@ -1,8 +1,8 @@
-var mongoose = require('mongoose');
-var countrySchema = require('../schemas/country');
+let mongoose = require('mongoose');
+let citySchema = require('../schemas/city');
 const mongoosePaginate = require('mongoose-paginate-v2');
 
-countrySchema.statics = {
+citySchema.statics = {
     create : function(data, cb) {
         var item = new this(data);
         item.save(cb);
@@ -46,8 +46,8 @@ countrySchema.statics = {
      }
 }
 
-countrySchema.plugin(mongoosePaginate);
+citySchema.plugin(mongoosePaginate);
 
 
-var countryModel = mongoose.model('Country', countrySchema);
-module.exports = countryModel;
+let cityModel = mongoose.model('City', citySchema);
+module.exports = cityModel;

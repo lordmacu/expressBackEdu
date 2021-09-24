@@ -5,7 +5,10 @@ var itemSchema = new Schema(
     name: String,
     contactForm: String,
     address: String,
-    city: String,
+    city: {
+      type: Schema.Types.ObjectId,
+      ref: "City",
+    },
     country: {
       type: Schema.Types.ObjectId,
       ref: "Country",
@@ -13,7 +16,7 @@ var itemSchema = new Schema(
     phone: String,
     email: String,
     web: String,
-    active: Boolean,
+    status: Boolean,
         idPlatform:Number
 
   },

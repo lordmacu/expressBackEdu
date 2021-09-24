@@ -1,5 +1,5 @@
 var mongoose = require('mongoose');
-var itemSchema = require('../schemas/provider');
+var itemSchema = require('../schemas/providersBooks');
 const mongoosePaginate = require('mongoose-paginate-v2');
 
 itemSchema.statics = {
@@ -9,7 +9,9 @@ itemSchema.statics = {
     },
 
     get: function(query, cb) {
-        this.findOne(query, cb).populate('country')
+        this.findOne(query, cb)
+            .populate('country')
+            .populate('city')
     },
 
      getSimple: function(query, cb) {
@@ -31,5 +33,5 @@ itemSchema.statics = {
 }
 itemSchema.plugin(mongoosePaginate);
 
-module.exports = mongoose.model('Provider', itemSchema);
+module.exports = mongoose.model('ProvidersBooks', itemSchema,'providersBooks');
  

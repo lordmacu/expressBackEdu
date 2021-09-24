@@ -1,4 +1,4 @@
-const Items = require('../dao/country');
+const Items = require('../dao/cities');
 
 exports.createItem = function (req, res, next) {
       

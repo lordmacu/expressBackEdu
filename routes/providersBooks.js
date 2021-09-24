@@ -1,5 +1,5 @@
 var express = require('express');
-const Item = require('../controllers/providers.controller');
+const Item = require('../controllers/providersBooks.controller');
 var router = express.Router();
  
 router.post('/create', Item.createItem);
