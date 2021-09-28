@@ -77,7 +77,7 @@ exports.find = function (req, res, next) {
 };
 
 exports.getItems = function (req, res, next) {
-  let query = { active: true };
+ let query = { active: true };
   let queryParams = [];
 
   if (!!req.body.q) {
@@ -99,6 +99,7 @@ exports.getItems = function (req, res, next) {
   } else {
     sort["_id"] = -1;
   }
+ 
   console.log(query);
   Items.paginate(
     query,
@@ -106,12 +107,14 @@ exports.getItems = function (req, res, next) {
       page: req.body.page,
       limit: req.body.perPage,
       sort: sort,
-      populate: ["type", "status", "tutors", "principalTutor", "students"],
+     // populate: ["type", "status", "tutors", "principalTutor", "students"],
+      populate: ["type", "tutors", "principalTutor", "students"],
     },
     function (err, result) {
       res.json(result);
     }
-  );
+  ); 
+ //  res.json("asfad");
 };
 
 exports.getItem = function (req, res, next) {
