@@ -107,8 +107,7 @@ exports.getItems = function (req, res, next) {
       page: req.body.page,
       limit: req.body.perPage,
       sort: sort,
-     // populate: ["type", "status", "tutors", "principalTutor", "students"],
-      populate: ["type", "tutors", "principalTutor", "students"],
+      populate: ["type","statusSubjects", "tutors", "principalTutor", "students"],
     },
     function (err, result) {
       res.json(result);

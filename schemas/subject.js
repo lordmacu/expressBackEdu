@@ -15,9 +15,9 @@ var itemSchema = new Schema(
     startDate: Date,
     endDate: Date,
     active: Boolean,
-    status: {
+    statusSubjects: {
       type: Schema.Types.ObjectId,
-      ref: "Status",
+      ref: "statusSubjects",
     },
     type: {
       type: Schema.Types.ObjectId,
