@@ -19,6 +19,9 @@ var statuses = require('./routes/statuses');
 var providers = require('./routes/providersBooks');
 var books = require('./routes/books');
 var tutors = require('./routes/tutors');
+var formats = require('./routes/formats');
+var aplications = require('./routes/applications');
+var bookAgreement = require('./routes/bookAgreements');
 
 var app = express();
 app.use(cors());
@@ -46,5 +49,8 @@ app.use( '/api/types', types);
 app.use( '/api/providersBooks', providers);
 app.use( '/api/books', books);
 app.use( '/api/tutors', tutors);
+app.use( '/api/formats', formats);
+app.use( '/api/aplications', aplications);
+app.use( '/api/bookAgreements', bookAgreement);
  
 module.exports = app;
