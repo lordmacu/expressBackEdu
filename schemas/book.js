@@ -2,20 +2,36 @@ var mongoose = require("mongoose");
 var Schema = mongoose.Schema;
 var itemSchema = new Schema(
   {
-    name: String,
-    contactForm: String,
-    address: String,
+    title: String,
+    edition: String,
+    isbn: String,
+    author: String,
     city: String,
-    country: {
-      type: Schema.Types.ObjectId,
-      ref: "Country",
-    },
-    phone: String,
-    email: String,
-    web: String,
+  
+    pages: String,
+    publication: String,
+    version: String,
+    web: String, 
+    price: String,
     active: Boolean,
-        idPlatform:Number
-
+    status: Boolean,
+    idPlatform:Number,
+    aplication: {
+      type: Schema.Types.ObjectId,
+      ref: "Application",
+    },
+    bookAgreement: {
+      type: Schema.Types.ObjectId,
+      ref: "BookAgreement",
+    },
+    format: {
+      type: Schema.Types.ObjectId,
+      ref: "Format",
+    },
+      providersBook: {
+      type: Schema.Types.ObjectId,
+      ref: "ProvidersBooks",
+    }
   },
   {
     timestamps: true,

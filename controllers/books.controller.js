@@ -5,7 +5,9 @@ exports.createItem = function (req, res, next) {
   if (item.id == 0) {
     delete req.body.id;
   }
-  item.active = true;
+  item.status = true;
+ 
+  console.log("aquiii el linbro  ",item );
 
   Items.create(item, function (err, item) {
     if (err) {
@@ -21,7 +23,7 @@ exports.createItem = function (req, res, next) {
 };
 
 exports.getItems = function (req, res, next) {
-  let query = { active: true };
+  let query = { status: true };
   let queryParams = [];
 
   if (!!req.body.q) {
@@ -35,7 +37,7 @@ exports.getItems = function (req, res, next) {
       queryData[columnSearch[c]] = { $regex: re };
       queryParams.push(queryData);
     }
-    query = { $or: queryParams, active: true };
+    query = { $or: queryParams, status: true };
   }
 
   const sort = {};
@@ -51,7 +53,7 @@ exports.getItems = function (req, res, next) {
       page: req.body.page,
       limit: req.body.perPage,
       sort: sort,
-      populate: ["country"],
+      populate: ["aplication","bookAgreement","format","providersBook"],
     },
     function (err, result) {
       res.json(result);
@@ -135,6 +137,7 @@ exports.updateItem = function (req, res, next) {
     delete item.id;
   }
 
+
   Items.update({ _id: id }, item, function (err, item) {
     if (err) {
       res.json({
@@ -148,7 +151,7 @@ exports.updateItem = function (req, res, next) {
 };
 
 exports.removeItem = function (req, res, next) {
-  Items.update({ _id: req.params.id }, { active: false }, function (err, item) {
+  Items.update({ _id: req.params.id }, { status: false }, function (err, item) {
     if (err) {
       res.json({
         error: err,

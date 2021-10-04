@@ -45,7 +45,7 @@ exports.getItems = function (req, res, next) {
   } else {
     sort["_id"] = -1;
   }
-  console.log(query);
+  console.log("aquiii mano ",query);
   Items.paginate(
     query,
     {

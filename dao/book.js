@@ -5,6 +5,8 @@ const mongoosePaginate = require('mongoose-paginate-v2');
 itemSchema.statics = {
     create : function(data, cb) {
         var item = new this(data);
+
+        console.log("quizas lo esta creando ", data);
         item.save(cb);
     },
 

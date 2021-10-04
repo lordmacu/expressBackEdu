@@ -8,5 +8,6 @@ router.post('/clone', Item.cloneItem);
 router.get('/get/:id', Item.getItem);
 router.put('/update/:id', Item.updateItem);
 router.delete('/remove/:id', Item.removeItem);
+router.post('/getAll', Item.getAllItems);
 
 module.exports = router;

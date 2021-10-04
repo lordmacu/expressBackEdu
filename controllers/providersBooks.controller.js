@@ -27,6 +27,26 @@ exports.createItem = async function (req, res, next) {
   
 };
 
+exports.getAllItems = function (req, res, next) {
+  Items.getAll({}, function (err, items) {
+    if (err) {
+      res.json({
+        error: err,
+      });
+    } else {
+      
+
+         var formatedResults=[];
+        items.forEach(element => {
+            var localResult={"value":element["name"],"label":element["name"],"_id":element["_id"]};
+            formatedResults.push(localResult);
+        });
+        res.json({
+            items: formatedResults
+        })
+    }
+  });
+};
 
 
 exports.getItems = function (req, res, next) {
