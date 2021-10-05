@@ -6,7 +6,8 @@ exports.createItem = function (req, res, next) {
     delete req.body.id;
   }
   item.status = true;
- 
+  item.url = item.web;
+   
   console.log("aquiii el linbro  ",item );
 
   Items.create(item, function (err, item) {
@@ -52,8 +53,9 @@ exports.getItems = function (req, res, next) {
     {
       page: req.body.page,
       limit: req.body.perPage,
-      sort: sort,
-      populate: ["aplication","bookAgreement","format","providersBook"],
+      sort: sort, 
+     populate: ["bookAgreement","format","provider","aplication"],
+     // populate: ["aplication","bookAgreement","format","providersBook","provider"],
     },
     function (err, result) {
       res.json(result);
@@ -136,7 +138,9 @@ exports.updateItem = function (req, res, next) {
   if (item.id == 0) {
     delete item.id;
   }
-
+   item.url = item.web;
+ 
+  console.log(item);
 
   Items.update({ _id: id }, item, function (err, item) {
     if (err) {

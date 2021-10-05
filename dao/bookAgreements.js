@@ -37,5 +37,5 @@ itemSchema.statics = {
 }
 itemSchema.plugin(mongoosePaginate);
 
-module.exports = mongoose.model('BookAgreement', itemSchema);
+module.exports = mongoose.model('AggrementOld', itemSchema);
  

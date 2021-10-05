@@ -37,5 +37,4 @@ itemSchema.statics = {
 }
 itemSchema.plugin(mongoosePaginate);
 
-module.exports = mongoose.model('Application', itemSchema);
- 
+  module.exports = mongoose.model('aplicationsBooks', itemSchema,'aplicationsBooks');

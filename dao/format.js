@@ -1,5 +1,5 @@
 var mongoose = require('mongoose');
-var itemSchema = require('../schemas/tutor');
+var itemSchema = require('../schemas/format');
 const mongoosePaginate = require('mongoose-paginate-v2');
 
 itemSchema.statics = {
@@ -37,5 +37,4 @@ itemSchema.statics = {
 }
 itemSchema.plugin(mongoosePaginate);
 
-module.exports = mongoose.model('Format', itemSchema);
- 
+  module.exports = mongoose.model('FormatBook', itemSchema,'formatsBooks');

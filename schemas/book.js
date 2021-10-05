@@ -18,17 +18,21 @@ var itemSchema = new Schema(
     idPlatform:Number,
     aplication: {
       type: Schema.Types.ObjectId,
-      ref: "Application",
+      ref: "aplicationsBooks",
     },
     bookAgreement: {
       type: Schema.Types.ObjectId,
-      ref: "BookAgreement",
+      ref: "Aggrement",
     },
     format: {
       type: Schema.Types.ObjectId,
-      ref: "Format",
+      ref: "FormatBook",
     },
       providersBook: {
+      type: Schema.Types.ObjectId,
+      ref: "ProvidersBooks",
+    },
+    provider: {
       type: Schema.Types.ObjectId,
       ref: "ProvidersBooks",
     }

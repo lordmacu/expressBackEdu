@@ -1,4 +1,4 @@
-const Items = require("../dao/bookAgreements");
+const Items = require("../dao/aggrement");
 
 exports.createItem = function (req, res, next) {
   var item = req.body;

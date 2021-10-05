@@ -15,6 +15,9 @@ itemSchema.statics = {
     get: function(query, cb) {
         this.find(query, cb);
     },
+ getAll: function(query, cb) {
+         this.find(query, cb);
+    },
 
     getByName: function(query, cb) {
         this.find(query, cb);
