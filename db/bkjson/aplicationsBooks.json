@@ -1,0 +1,76 @@
+[{
+  "_id": {
+    "$oid": "615464a17b9d4542cc99e2dc"
+  },
+  "name": "Adobe Digital Editions",
+  "shortName": "adeblue",
+  "status": true,
+  "idPlatform": 1,
+  "createdAt": {
+    "$date": "2021-09-29T13:05:37.299Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-29T13:05:37.299Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615464a17b9d4542cc99e2de"
+  },
+  "name": "Bookshelf",
+  "shortName": "bookshelf",
+  "status": true,
+  "idPlatform": 1,
+  "createdAt": {
+    "$date": "2021-09-29T13:05:37.299Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-29T13:05:37.299Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615464a17b9d4542cc99e2dd"
+  },
+  "name": "Adobe Reader",
+  "shortName": "adobereader",
+  "status": true,
+  "idPlatform": 1,
+  "createdAt": {
+    "$date": "2021-09-29T13:05:37.299Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-29T13:05:37.299Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615464a17b9d4542cc99e2df"
+  },
+  "name": "Kindle",
+  "shortName": "kindle",
+  "status": true,
+  "idPlatform": 1,
+  "createdAt": {
+    "$date": "2021-09-29T13:05:37.299Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-29T13:05:37.299Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615464a17b9d4542cc99e2e0"
+  },
+  "name": "Ninguna",
+  "shortName": "ninguna",
+  "status": true,
+  "idPlatform": 1,
+  "createdAt": {
+    "$date": "2021-09-29T13:05:37.299Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-29T13:05:37.299Z"
+  },
+  "__v": 0
+}]

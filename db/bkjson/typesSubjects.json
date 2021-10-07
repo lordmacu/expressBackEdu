@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "614272af375612640c182d2f"
+  },
+  "name": "CTM",
+  "status": true,
+  "idPlatform": 1,
+  "createdAt": {
+    "$date": "2021-09-15T22:24:47.608Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:24:47.608Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "614272af375612640c182d31"
+  },
+  "name": "Regular",
+  "status": true,
+  "idPlatform": 1,
+  "createdAt": {
+    "$date": "2021-09-15T22:24:47.608Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:24:47.608Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "614272af375612640c182d32"
+  },
+  "name": "Tutoria",
+  "status": true,
+  "idPlatform": 1,
+  "createdAt": {
+    "$date": "2021-09-15T22:24:47.608Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:24:47.608Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "614272af375612640c182d30"
+  },
+  "name": "Electiva",
+  "status": true,
+  "idPlatform": 1,
+  "createdAt": {
+    "$date": "2021-09-15T22:24:47.608Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:24:47.608Z"
+  },
+  "__v": 0
+}]

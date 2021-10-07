@@ -1,0 +1,121 @@
+[{
+  "_id": {
+    "$oid": "6142a045d1cd585754fecf81"
+  },
+  "name": "Universidad Viña del Mar - UVM (Chile)",
+  "shortName": "uvm",
+  "status": false,
+  "idPlatform": 1,
+  "createdAt": {
+    "$date": "2021-09-16T01:39:17.113Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-16T01:39:17.113Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6142a045d1cd585754fecf82"
+  },
+  "name": "Universidad del Mar - UDM (Chile)",
+  "shortName": "udm",
+  "status": false,
+  "idPlatform": 2,
+  "createdAt": {
+    "$date": "2021-09-16T01:39:17.113Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-16T01:39:17.113Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6142a045d1cd585754fecf83"
+  },
+  "name": "Brinks",
+  "shortName": "brinks",
+  "status": false,
+  "idPlatform": 3,
+  "createdAt": {
+    "$date": "2021-09-16T01:39:17.113Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-16T01:39:17.113Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6142a045d1cd585754fecf84"
+  },
+  "name": "Universidad de Salamanca",
+  "shortName": "usal",
+  "status": true,
+  "idPlatform": 4,
+  "createdAt": {
+    "$date": "2021-09-16T01:39:17.113Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-16T01:39:17.113Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6142a045d1cd585754fecf86"
+  },
+  "name": "Educacion Continua",
+  "shortName": "edcn",
+  "status": false,
+  "idPlatform": 6,
+  "createdAt": {
+    "$date": "2021-09-16T01:39:17.114Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-16T01:39:17.114Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6142a045d1cd585754fecf85"
+  },
+  "name": "Universidad Arturo Prat",
+  "shortName": "unap",
+  "status": true,
+  "idPlatform": 5,
+  "createdAt": {
+    "$date": "2021-09-16T01:39:17.114Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-16T01:39:17.114Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6142a045d1cd585754fecf87"
+  },
+  "name": "UPSA",
+  "shortName": "upsa",
+  "status": false,
+  "idPlatform": 7,
+  "createdAt": {
+    "$date": "2021-09-16T01:39:17.114Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-16T01:39:17.114Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6142a045d1cd585754fecf88"
+  },
+  "name": "Universidad Guglielmo Marconi",
+  "shortName": "gmu",
+  "status": true,
+  "idPlatform": 8,
+  "createdAt": {
+    "$date": "2021-09-16T01:39:17.114Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-16T01:39:17.114Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "614272af375612640c182d2e"
+  },
+  "name": "Nuevo",
+  "status": true,
+  "idPlatform": 1,
+  "createdAt": {
+    "$date": "2021-09-15T22:24:47.605Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:24:47.605Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "614272af375612640c182d2d"
+  },
+  "name": "Antiguo",
+  "status": true,
+  "idPlatform": 1,
+  "createdAt": {
+    "$date": "2021-09-15T22:24:47.604Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:24:47.604Z"
+  },
+  "__v": 0
+}]

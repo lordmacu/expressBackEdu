@@ -1,0 +1,3586 @@
+[{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed64"
+  },
+  "name": "Aruba",
+  "codeCountry": "ABW",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.947Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.947Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed6e"
+  },
+  "name": "Amerika Samoa",
+  "codeCountry": "ASM",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed6f"
+  },
+  "name": "Antarctica",
+  "codeCountry": "ATA",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed70"
+  },
+  "name": "Terres australes françaises",
+  "codeCountry": "ATF",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed71"
+  },
+  "name": "Antigua and Barbuda",
+  "codeCountry": "ATG",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed72"
+  },
+  "name": "Australia",
+  "codeCountry": "AUS",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed73"
+  },
+  "name": "Österreich",
+  "codeCountry": "AUT",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed74"
+  },
+  "name": "Azärbaycan",
+  "codeCountry": "AZE",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed75"
+  },
+  "name": "Burundi/Uburundi",
+  "codeCountry": "BDI",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed76"
+  },
+  "name": "Bélgica",
+  "codeCountry": "BEL",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed77"
+  },
+  "name": "Bénin",
+  "codeCountry": "BEN",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed78"
+  },
+  "name": "Burkina Faso",
+  "codeCountry": "BFA",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed79"
+  },
+  "name": "Bangladesh",
+  "codeCountry": "BGD",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed7a"
+  },
+  "name": "Balgarija",
+  "codeCountry": "BGR",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed7b"
+  },
+  "name": "Al-Bahrayn",
+  "codeCountry": "BHR",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed7c"
+  },
+  "name": "Bahamas",
+  "codeCountry": "BHS",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed7d"
+  },
+  "name": "Bosna i Hercegovina",
+  "codeCountry": "BIH",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed7e"
+  },
+  "name": "Belarus",
+  "codeCountry": "BLR",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed7f"
+  },
+  "name": "Belize",
+  "codeCountry": "BLZ",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed80"
+  },
+  "name": "Bermuda",
+  "codeCountry": "BMU",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed81"
+  },
+  "name": "Bolivia",
+  "codeCountry": "BOL",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed82"
+  },
+  "name": "Brasil",
+  "codeCountry": "BRA",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed83"
+  },
+  "name": "Barbados",
+  "codeCountry": "BRB",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed84"
+  },
+  "name": "Brunei Darussalam",
+  "codeCountry": "BRN",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed85"
+  },
+  "name": "Druk-Yul",
+  "codeCountry": "BTN",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed86"
+  },
+  "name": "Bouvetøya",
+  "codeCountry": "BVT",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed87"
+  },
+  "name": "Botswana",
+  "codeCountry": "BWA",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed88"
+  },
+  "name": "Centrafrique/Bê-Afrîka",
+  "codeCountry": "CAF",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed89"
+  },
+  "name": "Canada",
+  "codeCountry": "CAN",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed8a"
+  },
+  "name": "Cocos (Keeling) Islands",
+  "codeCountry": "CCK",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed8b"
+  },
+  "name": "Suiza",
+  "codeCountry": "CHE",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed8c"
+  },
+  "name": "Chile",
+  "codeCountry": "CHL",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed8d"
+  },
+  "name": "Zhongquo",
+  "codeCountry": "CHN",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed8e"
+  },
+  "name": "Côte d’Ivoire",
+  "codeCountry": "CIV",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed8f"
+  },
+  "name": "Cameroun/Cameroon",
+  "codeCountry": "CMR",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed90"
+  },
+  "name": "République Démocratique du Congo",
+  "codeCountry": "COD",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed91"
+  },
+  "name": "Congo",
+  "codeCountry": "COG",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed92"
+  },
+  "name": "The Cook Islands",
+  "codeCountry": "COK",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed93"
+  },
+  "name": "Colombia",
+  "codeCountry": "COL",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed94"
+  },
+  "name": "Komori/Comores",
+  "codeCountry": "COM",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed95"
+  },
+  "name": "Cabo Verde",
+  "codeCountry": "CPV",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed96"
+  },
+  "name": "Costa Rica",
+  "codeCountry": "CRI",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed97"
+  },
+  "name": "Cuba",
+  "codeCountry": "CUB",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed98"
+  },
+  "name": "Christmas Island",
+  "codeCountry": "CXR",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed99"
+  },
+  "name": "Cayman Islands",
+  "codeCountry": "CYM",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed9a"
+  },
+  "name": "Kýpros/Kibris",
+  "codeCountry": "CYP",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed9b"
+  },
+  "name": "¸esko",
+  "codeCountry": "CZE",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed9c"
+  },
+  "name": "Alemania",
+  "codeCountry": "DEU",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed9d"
+  },
+  "name": "Djibouti/Jibuti",
+  "codeCountry": "DJI",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed9e"
+  },
+  "name": "Dominica",
+  "codeCountry": "DMA",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed9f"
+  },
+  "name": "Danmark",
+  "codeCountry": "DNK",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17eda0"
+  },
+  "name": "República Dominicana",
+  "codeCountry": "DOM",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17eda1"
+  },
+  "name": "Al-Jaza’ir/Algérie",
+  "codeCountry": "DZA",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.949Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17eda2"
+  },
+  "name": "Ecuador",
+  "codeCountry": "ECU",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17eda3"
+  },
+  "name": "Misr",
+  "codeCountry": "EGY",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17eda4"
+  },
+  "name": "Ertra",
+  "codeCountry": "ERI",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17eda5"
+  },
+  "name": "As-Sahrawiya",
+  "codeCountry": "ESH",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "name": "España",
+  "codeCountry": "ESP",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17eda7"
+  },
+  "name": "Eesti",
+  "codeCountry": "EST",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17eda8"
+  },
+  "name": "YeItyop´iya",
+  "codeCountry": "ETH",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17eda9"
+  },
+  "name": "Finlandia",
+  "codeCountry": "FIN",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edaa"
+  },
+  "name": "Fiji Islands",
+  "codeCountry": "FJI",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed6b"
+  },
+  "name": "Al-Imarat al-´Arabiya al-Muttahida",
+  "codeCountry": "ARE",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edab"
+  },
+  "name": "Falkland Islands",
+  "codeCountry": "FLK",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edac"
+  },
+  "name": "Francia",
+  "codeCountry": "FRA",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edad"
+  },
+  "name": "Føroyar",
+  "codeCountry": "FRO",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed65"
+  },
+  "name": "Afganistan",
+  "codeCountry": "AFG",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.947Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.947Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edae"
+  },
+  "name": "Micronesia",
+  "codeCountry": "FSM",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edaf"
+  },
+  "name": "Le Gabon",
+  "codeCountry": "GAB",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed66"
+  },
+  "name": "Angola",
+  "codeCountry": "AGO",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.947Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.947Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edb0"
+  },
+  "name": "Reino Unido",
+  "codeCountry": "GBR",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edb1"
+  },
+  "name": "Sakartvelo",
+  "codeCountry": "GEO",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed67"
+  },
+  "name": "Anguilla",
+  "codeCountry": "AIA",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.947Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.947Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edb2"
+  },
+  "name": "Ghana",
+  "codeCountry": "GHA",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edb3"
+  },
+  "name": "Gibraltar",
+  "codeCountry": "GIB",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed68"
+  },
+  "name": "Shqipëria",
+  "codeCountry": "ALB",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.947Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.947Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edb4"
+  },
+  "name": "Guinée",
+  "codeCountry": "GIN",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edb5"
+  },
+  "name": "Guadeloupe",
+  "codeCountry": "GLP",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edb6"
+  },
+  "name": "The Gambia",
+  "codeCountry": "GMB",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed6a"
+  },
+  "name": "Nederlandse Antillen",
+  "codeCountry": "ANT",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edb7"
+  },
+  "name": "Guiné-Bissau",
+  "codeCountry": "GNB",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed69"
+  },
+  "name": "Andorra",
+  "codeCountry": "AND",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.947Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.947Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edb8"
+  },
+  "name": "Guinea Ecuatorial",
+  "codeCountry": "GNQ",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edb9"
+  },
+  "name": "Elláda",
+  "codeCountry": "GRC",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edba"
+  },
+  "name": "Grenada",
+  "codeCountry": "GRD",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed6d"
+  },
+  "name": "Hajastan",
+  "codeCountry": "ARM",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edbb"
+  },
+  "name": "Kalaallit Nunaat/Grønland",
+  "codeCountry": "GRL",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ed6c"
+  },
+  "name": "Argentina",
+  "codeCountry": "ARG",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.948Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edbc"
+  },
+  "name": "Guatemala",
+  "codeCountry": "GTM",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edbd"
+  },
+  "name": "Guyane française",
+  "codeCountry": "GUF",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edbe"
+  },
+  "name": "Guam",
+  "codeCountry": "GUM",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.950Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edbf"
+  },
+  "name": "Guyana",
+  "codeCountry": "GUY",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edc0"
+  },
+  "name": "Xianggang/Hong Kong",
+  "codeCountry": "HKG",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edc1"
+  },
+  "name": "Heard and McDonald Islands",
+  "codeCountry": "HMD",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edc2"
+  },
+  "name": "Honduras",
+  "codeCountry": "HND",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edc3"
+  },
+  "name": "Hrvatska",
+  "codeCountry": "HRV",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edc4"
+  },
+  "name": "Haïti/Dayti",
+  "codeCountry": "HTI",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edc5"
+  },
+  "name": "Magyarország",
+  "codeCountry": "HUN",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edc6"
+  },
+  "name": "Indonesia",
+  "codeCountry": "IDN",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edc7"
+  },
+  "name": "Bharat/India",
+  "codeCountry": "IND",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edc8"
+  },
+  "name": "British Indian Ocean Territory",
+  "codeCountry": "IOT",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edc9"
+  },
+  "name": "Ireland/Éire",
+  "codeCountry": "IRL",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edca"
+  },
+  "name": "Iran",
+  "codeCountry": "IRN",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edcb"
+  },
+  "name": "Al-´Iraq",
+  "codeCountry": "IRQ",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edcc"
+  },
+  "name": "Ísland",
+  "codeCountry": "ISL",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edcd"
+  },
+  "name": "Yisra’el/Isra’il",
+  "codeCountry": "ISR",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edce"
+  },
+  "name": "Italia",
+  "codeCountry": "ITA",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edcf"
+  },
+  "name": "Jamaica",
+  "codeCountry": "JAM",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edd0"
+  },
+  "name": "Al-Urdunn",
+  "codeCountry": "JOR",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edd1"
+  },
+  "name": "Japón",
+  "codeCountry": "JPN",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edd2"
+  },
+  "name": "Qazaqstan",
+  "codeCountry": "KAZ",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edd3"
+  },
+  "name": "Kenya",
+  "codeCountry": "KEN",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edd4"
+  },
+  "name": "Kyrgyzstan",
+  "codeCountry": "KGZ",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edd5"
+  },
+  "name": "Kâmpuchéa",
+  "codeCountry": "KHM",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edd6"
+  },
+  "name": "Kiribati",
+  "codeCountry": "KIR",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edd7"
+  },
+  "name": "Saint Kitts and Nevis",
+  "codeCountry": "KNA",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edd8"
+  },
+  "name": "Taehan Min’guk (Namhan)",
+  "codeCountry": "KOR",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edd9"
+  },
+  "name": "Al-Kuwayt",
+  "codeCountry": "KWT",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edda"
+  },
+  "name": "Lao",
+  "codeCountry": "LAO",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.951Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17eddb"
+  },
+  "name": "Lubnan",
+  "codeCountry": "LBN",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17eddc"
+  },
+  "name": "Liberia",
+  "codeCountry": "LBR",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17eddd"
+  },
+  "name": "Libiya",
+  "codeCountry": "LBY",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edde"
+  },
+  "name": "Saint Lucia",
+  "codeCountry": "LCA",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17eddf"
+  },
+  "name": "Liechtenstein",
+  "codeCountry": "LIE",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ede0"
+  },
+  "name": "Sri Lanka/Ilankai",
+  "codeCountry": "LKA",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ede1"
+  },
+  "name": "Lesotho",
+  "codeCountry": "LSO",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ede2"
+  },
+  "name": "Lietuva",
+  "codeCountry": "LTU",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ede3"
+  },
+  "name": "Luxembourg/Lëtzebuerg",
+  "codeCountry": "LUX",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ede4"
+  },
+  "name": "Latvija",
+  "codeCountry": "LVA",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ede5"
+  },
+  "name": "Macau/Aomen",
+  "codeCountry": "MAC",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ede6"
+  },
+  "name": "Al-Maghrib",
+  "codeCountry": "MAR",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ede7"
+  },
+  "name": "Monaco",
+  "codeCountry": "MCO",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ede8"
+  },
+  "name": "Moldova",
+  "codeCountry": "MDA",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ede9"
+  },
+  "name": "Madagasikara/Madagascar",
+  "codeCountry": "MDG",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edea"
+  },
+  "name": "Dhivehi Raajje/Maldives",
+  "codeCountry": "MDV",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edeb"
+  },
+  "name": "México",
+  "codeCountry": "MEX",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edec"
+  },
+  "name": "Marshall Islands/Majol",
+  "codeCountry": "MHL",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17eded"
+  },
+  "name": "Makedonija",
+  "codeCountry": "MKD",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edee"
+  },
+  "name": "Mali",
+  "codeCountry": "MLI",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edef"
+  },
+  "name": "Malta",
+  "codeCountry": "MLT",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edf0"
+  },
+  "name": "Myanma Pye",
+  "codeCountry": "MMR",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edf1"
+  },
+  "name": "Mongol Uls",
+  "codeCountry": "MNG",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edf2"
+  },
+  "name": "Northern Mariana Islands",
+  "codeCountry": "MNP",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edf3"
+  },
+  "name": "Mozambique",
+  "codeCountry": "MOZ",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edf4"
+  },
+  "name": "Muritaniya/Mauritanie",
+  "codeCountry": "MRT",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edf5"
+  },
+  "name": "Montserrat",
+  "codeCountry": "MSR",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edf6"
+  },
+  "name": "Martinique",
+  "codeCountry": "MTQ",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edf7"
+  },
+  "name": "Mauritius",
+  "codeCountry": "MUS",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.952Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edf8"
+  },
+  "name": "Malawi",
+  "codeCountry": "MWI",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edf9"
+  },
+  "name": "Malaysia",
+  "codeCountry": "MYS",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edfa"
+  },
+  "name": "Mayotte",
+  "codeCountry": "MYT",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edfb"
+  },
+  "name": "Namibia",
+  "codeCountry": "NAM",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edfc"
+  },
+  "name": "Nouvelle-Calédonie",
+  "codeCountry": "NCL",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edfd"
+  },
+  "name": "Niger",
+  "codeCountry": "NER",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edfe"
+  },
+  "name": "Norfolk Island",
+  "codeCountry": "NFK",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17edff"
+  },
+  "name": "Nigeria",
+  "codeCountry": "NGA",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee00"
+  },
+  "name": "Nicaragua",
+  "codeCountry": "NIC",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee01"
+  },
+  "name": "Niue",
+  "codeCountry": "NIU",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee02"
+  },
+  "name": "Nederland",
+  "codeCountry": "NLD",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee03"
+  },
+  "name": "Norge",
+  "codeCountry": "NOR",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee04"
+  },
+  "name": "Nepal",
+  "codeCountry": "NPL",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee05"
+  },
+  "name": "Naoero/Nauru",
+  "codeCountry": "NRU",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee06"
+  },
+  "name": "Nueva Zelanda",
+  "codeCountry": "NZL",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee07"
+  },
+  "name": "´Uman",
+  "codeCountry": "OMN",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee08"
+  },
+  "name": "Pakistan",
+  "codeCountry": "PAK",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee09"
+  },
+  "name": "Panamá",
+  "codeCountry": "PAN",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee0a"
+  },
+  "name": "Pitcairn",
+  "codeCountry": "PCN",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee0b"
+  },
+  "name": "Perú",
+  "codeCountry": "PER",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee0c"
+  },
+  "name": "Filipinas",
+  "codeCountry": "PHL",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee0d"
+  },
+  "name": "Belau/Palau",
+  "codeCountry": "PLW",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee0e"
+  },
+  "name": "Papua New Guinea/Papua Niugini",
+  "codeCountry": "PNG",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee0f"
+  },
+  "name": "Polska",
+  "codeCountry": "POL",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee10"
+  },
+  "name": "Puerto Rico",
+  "codeCountry": "PRI",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee11"
+  },
+  "name": "Choson Minjujuui In´min Konghwaguk (Bukhan)",
+  "codeCountry": "PRK",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee12"
+  },
+  "name": "Portugal",
+  "codeCountry": "PRT",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee13"
+  },
+  "name": "Paraguay",
+  "codeCountry": "PRY",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.953Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee14"
+  },
+  "name": "Filastin",
+  "codeCountry": "PSE",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee15"
+  },
+  "name": "Polynésie française",
+  "codeCountry": "PYF",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee16"
+  },
+  "name": "Qatar",
+  "codeCountry": "QAT",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee17"
+  },
+  "name": "Réunion",
+  "codeCountry": "REU",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee18"
+  },
+  "name": "România",
+  "codeCountry": "ROM",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee19"
+  },
+  "name": "Rusia",
+  "codeCountry": "RUS",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee1a"
+  },
+  "name": "Rwanda/Urwanda",
+  "codeCountry": "RWA",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee1b"
+  },
+  "name": "Arabia Saudita",
+  "codeCountry": "SAU",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee1c"
+  },
+  "name": "As-Sudan",
+  "codeCountry": "SDN",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee1d"
+  },
+  "name": "Sénégal/Sounougal",
+  "codeCountry": "SEN",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee1e"
+  },
+  "name": "Singapur",
+  "codeCountry": "SGP",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee1f"
+  },
+  "name": "South Georgia and the South Sandwich Islands",
+  "codeCountry": "SGS",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee20"
+  },
+  "name": "Saint Helena",
+  "codeCountry": "SHN",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee21"
+  },
+  "name": "Svalbard og Jan Mayen",
+  "codeCountry": "SJM",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee22"
+  },
+  "name": "Solomon Islands",
+  "codeCountry": "SLB",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee23"
+  },
+  "name": "Sierra Leone",
+  "codeCountry": "SLE",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee24"
+  },
+  "name": "El Salvador",
+  "codeCountry": "SLV",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee25"
+  },
+  "name": "San Marino",
+  "codeCountry": "SMR",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee26"
+  },
+  "name": "Soomaaliya",
+  "codeCountry": "SOM",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee27"
+  },
+  "name": "Saint-Pierre-et-Miquelon",
+  "codeCountry": "SPM",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee28"
+  },
+  "name": "São Tomé e Príncipe",
+  "codeCountry": "STP",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee29"
+  },
+  "name": "Suriname",
+  "codeCountry": "SUR",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee2a"
+  },
+  "name": "Slovensko",
+  "codeCountry": "SVK",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee2b"
+  },
+  "name": "Slovenija",
+  "codeCountry": "SVN",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee2c"
+  },
+  "name": "Sverige",
+  "codeCountry": "SWE",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee2d"
+  },
+  "name": "kaNgwane",
+  "codeCountry": "SWZ",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee2e"
+  },
+  "name": "Sesel/Seychelles",
+  "codeCountry": "SYC",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee2f"
+  },
+  "name": "Siria",
+  "codeCountry": "SYR",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee30"
+  },
+  "name": "The Turks and Caicos Islands",
+  "codeCountry": "TCA",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.954Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee31"
+  },
+  "name": "Tchad/Tshad",
+  "codeCountry": "TCD",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee32"
+  },
+  "name": "Togo",
+  "codeCountry": "TGO",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee33"
+  },
+  "name": "Prathet Thai",
+  "codeCountry": "THA",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee34"
+  },
+  "name": "Toçikiston",
+  "codeCountry": "TJK",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee35"
+  },
+  "name": "Tokelau",
+  "codeCountry": "TKL",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee36"
+  },
+  "name": "Türkmenostan",
+  "codeCountry": "TKM",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee37"
+  },
+  "name": "Timor Timur",
+  "codeCountry": "TMP",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee38"
+  },
+  "name": "Tonga",
+  "codeCountry": "TON",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee39"
+  },
+  "name": "Trinidad and Tobago",
+  "codeCountry": "TTO",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee3a"
+  },
+  "name": "Tunis/Tunisie",
+  "codeCountry": "TUN",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee3b"
+  },
+  "name": "Türkiye",
+  "codeCountry": "TUR",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee3c"
+  },
+  "name": "Tuvalu",
+  "codeCountry": "TUV",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee3d"
+  },
+  "name": "T’ai-wan",
+  "codeCountry": "TWN",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee3e"
+  },
+  "name": "Tanzania",
+  "codeCountry": "TZA",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee3f"
+  },
+  "name": "Uganda",
+  "codeCountry": "UGA",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee40"
+  },
+  "name": "Ukrajina",
+  "codeCountry": "UKR",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee41"
+  },
+  "name": "United States Minor Outlying Islands",
+  "codeCountry": "UMI",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee42"
+  },
+  "name": "Uruguay",
+  "codeCountry": "URY",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee43"
+  },
+  "name": "Estados Unidos",
+  "codeCountry": "USA",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee44"
+  },
+  "name": "Uzbekiston",
+  "codeCountry": "UZB",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee45"
+  },
+  "name": "Santa Sede/Città del Vaticano",
+  "codeCountry": "VAT",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee46"
+  },
+  "name": "Saint Vincent and the Grenadines",
+  "codeCountry": "VCT",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee47"
+  },
+  "name": "Venezuela",
+  "codeCountry": "VEN",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee48"
+  },
+  "name": "British Virgin Islands",
+  "codeCountry": "VGB",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee49"
+  },
+  "name": "Virgin Islands of the United States",
+  "codeCountry": "VIR",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee4a"
+  },
+  "name": "Viêt Nam",
+  "codeCountry": "VNM",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee4b"
+  },
+  "name": "Vanuatu",
+  "codeCountry": "VUT",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.955Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee4c"
+  },
+  "name": "Wallis-et-Futuna",
+  "codeCountry": "WLF",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.956Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.956Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee4d"
+  },
+  "name": "Samoa",
+  "codeCountry": "WSM",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.956Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.956Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee4e"
+  },
+  "name": "Al-Yaman",
+  "codeCountry": "YEM",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.956Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.956Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee4f"
+  },
+  "name": "Jugoslavija",
+  "codeCountry": "YUG",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.956Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.956Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee50"
+  },
+  "name": "South Africa",
+  "codeCountry": "ZAF",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.956Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.956Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee51"
+  },
+  "name": "Zambia",
+  "codeCountry": "ZMB",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.956Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.956Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61426f1a375612640c17ee52"
+  },
+  "name": "Zimbabwe",
+  "codeCountry": "ZWE",
+  "idPlatform": 1,
+  "status": true,
+  "createdAt": {
+    "$date": "2021-09-15T22:09:30.956Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-15T22:09:30.956Z"
+  },
+  "__v": 0
+}]

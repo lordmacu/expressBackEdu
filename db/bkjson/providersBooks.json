@@ -1,0 +1,1765 @@
+[{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc995a"
+  },
+  "name": "Ediciones GEMM",
+  "contactForm": "Addy",
+  "address": "1",
+  "phone": "1",
+  "email": "",
+  "web": "",
+  "country": null,
+  "city": null,
+  "status": true,
+  "idPlatform": 7,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.105Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.105Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc9962"
+  },
+  "name": "José Antonio Martín Herrero",
+  "contactForm": "Dra. Rosario",
+  "address": "0",
+  "phone": "0",
+  "email": "",
+  "web": "",
+  "country": null,
+  "city": null,
+  "status": true,
+  "idPlatform": 71,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.106Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.106Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc995c"
+  },
+  "name": "CommonsWare, LLC",
+  "contactForm": "Addy Castro",
+  "address": ".",
+  "phone": "1",
+  "email": "",
+  "web": "https://commonsware.com",
+  "country": null,
+  "city": null,
+  "status": true,
+  "idPlatform": 29,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.106Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.106Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc995d"
+  },
+  "name": "Editorial Piramide",
+  "contactForm": "Addy Castro",
+  "address": ".",
+  "phone": "1",
+  "email": "",
+  "web": "",
+  "country": null,
+  "city": null,
+  "status": true,
+  "idPlatform": 33,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.106Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.106Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc995e"
+  },
+  "name": "Editorial Alianza",
+  "contactForm": "Addy Castro",
+  "address": ".",
+  "phone": "1",
+  "email": "",
+  "web": "",
+  "country": null,
+  "city": null,
+  "status": true,
+  "idPlatform": 34,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.106Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.106Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc995f"
+  },
+  "name": "EOSSL (Encyclopedia of Life Support Systems)",
+  "contactForm": "Yandrek Vegueria",
+  "address": ".",
+  "phone": ".",
+  "email": "",
+  "web": "http://www.eolss.net/ebooklib/ViewEbookDetail_1.aspx?catid=8&fileid=E6-186",
+  "country": null,
+  "city": null,
+  "status": true,
+  "idPlatform": 40,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.106Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.106Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc9960"
+  },
+  "name": "Librería de la U",
+  "contactForm": "Miguel Angel",
+  "address": ".",
+  "phone": ".",
+  "email": "",
+  "web": "",
+  "country": null,
+  "city": null,
+  "status": true,
+  "idPlatform": 68,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.106Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.106Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc9961"
+  },
+  "name": "Javier Ferrin Rey (no usa libro base solo RRCC)",
+  "contactForm": "Javier Paulazani",
+  "address": ".",
+  "phone": ".",
+  "email": "",
+  "web": "",
+  "country": null,
+  "city": null,
+  "status": true,
+  "idPlatform": 70,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.106Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.106Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc995b"
+  },
+  "name": "UNIR",
+  "contactForm": "Addy Castro",
+  "address": ".",
+  "phone": "1",
+  "email": "",
+  "web": "http://www.unir.net",
+  "country": null,
+  "city": null,
+  "status": true,
+  "idPlatform": 13,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.106Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.106Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc9963"
+  },
+  "name": "Pearson",
+  "contactForm": "Javier",
+  "address": "Av. Limon",
+  "phone": "4673535421",
+  "email": "",
+  "web": "",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f23375612640c17f99c"
+  },
+  "status": true,
+  "idPlatform": 1,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.172Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.172Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc9964"
+  },
+  "name": "Project Management Institute - PMI",
+  "contactForm": "Limberg Morales",
+  "address": "Newtown Square, Pennsylvania",
+  "phone": "1",
+  "email": "",
+  "web": "http://www.pmi.org/",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f24375612640c17ff22"
+  },
+  "status": true,
+  "idPlatform": 2,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.174Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.174Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc9965"
+  },
+  "name": "UVirtual - Centro de Excelencia",
+  "contactForm": "Limberg Morales",
+  "address": "Av. Irala 585",
+  "phone": "1",
+  "email": "",
+  "web": "",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f21375612640c17ef13"
+  },
+  "status": true,
+  "idPlatform": 3,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.176Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.176Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc9966"
+  },
+  "name": "Ábaco de Rodolfo Depalma",
+  "contactForm": "Limberg Morales",
+  "address": "Viamonte 1336, 4° (C1053 ACB) Buenos Aires",
+  "phone": "5411-43711675",
+  "email": "",
+  "web": "http://www.abacoeditorial.com.ar/",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f21375612640c17ee97"
+  },
+  "status": true,
+  "idPlatform": 4,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.179Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.179Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc9967"
+  },
+  "name": "Pablo Lledó - ProjectManagement",
+  "contactForm": "Limberg Morales",
+  "address": "Victoria, BC, Canadá",
+  "phone": "1",
+  "email": "",
+  "web": "",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f24375612640c17ff22"
+  },
+  "status": true,
+  "idPlatform": 5,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.181Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.181Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc9968"
+  },
+  "name": "SME Society for Mining, Metallurgy, & Exploration, Inc",
+  "contactForm": "UVirtual",
+  "address": "12999 E. Adam Aircraft Circle, Englewood CO 80112",
+  "phone": "800 7633132",
+  "email": "",
+  "web": "",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f24375612640c17ff22"
+  },
+  "status": true,
+  "idPlatform": 6,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.183Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.183Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc9969"
+  },
+  "name": "Profit editorial",
+  "contactForm": "Addy",
+  "address": "Travessera de Gràcia 18-20, 6è 2a 08021 Barcelona",
+  "phone": "1",
+  "email": "",
+  "web": "",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f22375612640c17f0e0"
+  },
+  "status": true,
+  "idPlatform": 8,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.185Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.185Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc996a"
+  },
+  "name": "ECOE Ediciones Ltda.",
+  "contactForm": "Addy",
+  "address": "CRA 19 No.63c-32 Bogotá-Colombia",
+  "phone": "311 482 1766",
+  "email": "info@ecoeediciones.com",
+  "web": "",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f24375612640c17fe71"
+  },
+  "status": true,
+  "idPlatform": 9,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.187Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.187Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc996b"
+  },
+  "name": "Estudios Mineros Del Perú S.A.C.",
+  "contactForm": "Addy",
+  "address": "Libertad 114 - 3C miraflores",
+  "phone": "2426833",
+  "email": "polo@estudiosmineros.com",
+  "web": "",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f23375612640c17f99c"
+  },
+  "status": true,
+  "idPlatform": 10,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.189Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.189Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc996c"
+  },
+  "name": "Congreso Nacional de Chile",
+  "contactForm": "Addy",
+  "address": "CHILE",
+  "phone": "56 2 22701700",
+  "email": "",
+  "web": "",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f22375612640c17f07c"
+  },
+  "status": true,
+  "idPlatform": 11,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.191Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.191Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc996d"
+  },
+  "name": "Ediciones Granica S.A.",
+  "contactForm": "Addy Castro",
+  "address": "Lavalle 1634 3º piso - C1048AAN - Buenos Aires, Argentina",
+  "phone": "54 (11) 4374-1456 - Fax +54 (11) 4373-0669 / 4374-1456 int 122",
+  "email": "granica.ar@granicaeditor.com",
+  "web": "http://www.granicaeditor.com/",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f21375612640c17ee97"
+  },
+  "status": true,
+  "idPlatform": 12,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.193Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.193Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc996e"
+  },
+  "name": "ICE Editorial",
+  "contactForm": "Addy Castro",
+  "address": "Av. El Romeral, 2. Polígono Industrial de Antequera",
+  "phone": "952-706004",
+  "email": "iceditorial@iceditorial.com",
+  "web": "http://www.iceditorial.com",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f24375612640c17fe84"
+  },
+  "status": true,
+  "idPlatform": 14,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.196Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.196Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc996f"
+  },
+  "name": "Superación Virtual",
+  "contactForm": "Bernardo Dominguez",
+  "address": ".",
+  "phone": ".",
+  "email": "",
+  "web": "",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f24375612640c17fe43"
+  },
+  "status": true,
+  "idPlatform": 15,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.199Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.199Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc9970"
+  },
+  "name": "Díaz de Santos",
+  "contactForm": "Addy Castro",
+  "address": "Madrid, España",
+  "phone": "1",
+  "email": "ediciones@diazdesantos.es",
+  "web": "http://ediciones.diazdesantos.es",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f22375612640c17f0df"
+  },
+  "status": true,
+  "idPlatform": 17,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.202Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.202Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc9971"
+  },
+  "name": "Amazon",
+  "contactForm": "Addy Castro",
+  "address": ".",
+  "phone": ".",
+  "email": "",
+  "web": "http://www.amazon.com/",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f24375612640c17ff22"
+  },
+  "status": true,
+  "idPlatform": 16,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.203Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.203Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc9972"
+  },
+  "name": "PROFIT Editorial",
+  "contactForm": "Addy Castro",
+  "address": "Barcelona",
+  "phone": "93-4109793",
+  "email": "info@profiteditorial.com",
+  "web": "http://www.profiteditorial.com",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f22375612640c17f0e0"
+  },
+  "status": true,
+  "idPlatform": 19,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.206Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.206Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc9973"
+  },
+  "name": "Editorial Norma S.A.",
+  "contactForm": "Addy Castro",
+  "address": ".",
+  "phone": ".",
+  "email": "",
+  "web": "",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f24375612640c17fe71"
+  },
+  "status": true,
+  "idPlatform": 18,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.207Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.207Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc9974"
+  },
+  "name": "Proyecto Editorial San Matías",
+  "contactForm": "Addy Castro",
+  "address": "Medellín",
+  "phone": ".",
+  "email": "",
+  "web": "",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f24375612640c17fe71"
+  },
+  "status": true,
+  "idPlatform": 20,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.210Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.210Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc9975"
+  },
+  "name": "Random House Mondadori",
+  "contactForm": "Addy Castro",
+  "address": "Barcelona",
+  "phone": "34-933660300",
+  "email": "",
+  "web": "http://www.randomhousemondadori.com",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f24375612640c17feaf"
+  },
+  "status": true,
+  "idPlatform": 21,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.211Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.211Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc9976"
+  },
+  "name": "Uvirtual / Universidad de Salamanca",
+  "contactForm": "Addy Castro",
+  "address": ".",
+  "phone": "1",
+  "email": "",
+  "web": "",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f24375612640c17fe43"
+  },
+  "status": true,
+  "idPlatform": 22,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.214Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.214Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc9977"
+  },
+  "name": "Universitat de les Illes Balears",
+  "contactForm": "Addy Castro",
+  "address": ".",
+  "phone": "1",
+  "email": "",
+  "web": "http://www.edicions.uib.es",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f24375612640c17fe43"
+  },
+  "status": true,
+  "idPlatform": 23,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.216Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.216Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc9978"
+  },
+  "name": "Prensas Universitarias de Zaragoza",
+  "contactForm": "Addy Castro",
+  "address": ".",
+  "phone": ".",
+  "email": "",
+  "web": "",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f24375612640c17fe43"
+  },
+  "status": true,
+  "idPlatform": 25,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.219Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.219Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc9979"
+  },
+  "name": "UNED",
+  "contactForm": "Addy Castro",
+  "address": "c/ Bravo Murillo, 38 - 28015 Madrid",
+  "phone": "91-398-7560",
+  "email": "libreria@adm.uned.es",
+  "web": "",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f24375612640c17feaf"
+  },
+  "status": true,
+  "idPlatform": 24,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.220Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc997a"
+  },
+  "name": "Ediciones Pirámide (Grupo Anaya S.A.)",
+  "contactForm": "Addy Castro",
+  "address": "Madrid",
+  "phone": "91-393-8989",
+  "email": "piramide@anaya.es",
+  "web": "http://www.edicionespiramide.es",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f22375612640c17f0df"
+  },
+  "status": true,
+  "idPlatform": 26,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.222Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.222Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc997b"
+  },
+  "name": "Librisite",
+  "contactForm": "Addy Castro",
+  "address": "Av. Las Américas 195",
+  "phone": "3335566",
+  "email": "addy.castro@uvirtual.org",
+  "web": "",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f21375612640c17ef13"
+  },
+  "status": true,
+  "idPlatform": 27,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.224Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.224Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc997c"
+  },
+  "name": "Manning Publications Co",
+  "contactForm": "Addy Castro",
+  "address": "Manning Publicaciones Co.\r\n20 Baldwin carretera\r\nPO Box 761\r\nShelter Island, NY   11964",
+  "phone": "203-626-1510",
+  "email": "support@manning.com",
+  "web": "http://www.manning.com/leroux/",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f24375612640c17fd23"
+  },
+  "status": true,
+  "idPlatform": 28,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.226Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.226Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc997d"
+  },
+  "name": "Casa del libro",
+  "contactForm": "Addy Castro",
+  "address": "Complejo ática - Edificio 4\r\n\r\n   Vía de las Dos Castillas, nº 33\r\n\r\n   28224 Pozuelo de Alarcon (Madrid, España)",
+  "phone": "0",
+  "email": "",
+  "web": "http://www.casadellibro.com/",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f22375612640c17f0df"
+  },
+  "status": true,
+  "idPlatform": 30,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.227Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.227Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc997e"
+  },
+  "name": "Descarga libre",
+  "contactForm": "Addy Castro",
+  "address": ".",
+  "phone": "3335566",
+  "email": "",
+  "web": "",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f21375612640c17ef13"
+  },
+  "status": true,
+  "idPlatform": 31,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.229Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.229Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc997f"
+  },
+  "name": "Tutor de la materia",
+  "contactForm": "Addy Castro",
+  "address": ".",
+  "phone": "3335566",
+  "email": "",
+  "web": "",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f21375612640c17ef13"
+  },
+  "status": true,
+  "idPlatform": 32,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.232Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.232Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc9980"
+  },
+  "name": "Mcgraw-Hill / Interamericana de Mexico",
+  "contactForm": "Addy Castro",
+  "address": "Prolongacion Paseo de la Reforma 1015 torre A piso 16, Álvaro Obregón, Colonia Desarrollo de Santa Fe, 01376 Ciudad de México, D.F., México",
+  "phone": "52 55 1500 5000",
+  "email": "",
+  "web": "https://www.mheducation.com.mx",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f24375612640c17fec9"
+  },
+  "status": true,
+  "idPlatform": 35,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.237Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.237Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc9981"
+  },
+  "name": "Todoebook",
+  "contactForm": "Addy Castro",
+  "address": ".",
+  "phone": ".",
+  "email": "",
+  "web": "http://todoebook.com/EL-MANUAL-DEL-EMPRENDEDOR-STEVE-BLANK-GESTION-2000-LibroEbook-ES-SPB0250274.html",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f22375612640c17f0df"
+  },
+  "status": true,
+  "idPlatform": 36,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.239Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.239Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc9982"
+  },
+  "name": "Golden Book",
+  "contactForm": "Addy Castro",
+  "address": "Dirección Casa Matriz: Héroes de la Concepción 2555 LOCAL 140-141, Iquique - Mall Plaza Las Américas.\r\n\r\nHorario de Lunes a Domingo de 10:00 a 21:30 horas",
+  "phone": "57-2391434 / 57-2439395 / 57-2523405",
+  "email": "admin@goldenbook.cl - ventas@goldenbook.cl",
+  "web": "http://www.goldenbook.cl",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f22375612640c17f089"
+  },
+  "status": true,
+  "idPlatform": 37,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.244Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.244Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc9983"
+  },
+  "name": "RG COMUNICACIÓN",
+  "contactForm": "Pilar Lorenzo - Directora de eventos",
+  "address": "C/Maldonadas, 1 - Madrid 28005\r\nMadrid - España",
+  "phone": "658 877 367",
+  "email": "rg@rgcomunicacion.es; pilarlorenzo@rgcomunicacion.es",
+  "web": "http://www.rgcomunicacion.es",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f22375612640c17f0df"
+  },
+  "status": true,
+  "idPlatform": 38,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.245Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.245Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc9984"
+  },
+  "name": "Biblioteca UVirtual",
+  "contactForm": "Yandrek Vegueria",
+  "address": "Av. Las Americas 195",
+  "phone": "335566",
+  "email": "",
+  "web": "",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f21375612640c17ef13"
+  },
+  "status": true,
+  "idPlatform": 41,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.246Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.246Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc9985"
+  },
+  "name": "Gas Processors Suppliers Association (GPSA)",
+  "contactForm": "Addy Castro",
+  "address": "6060 S American Plaza St E #700, Tulsa, OK 74135",
+  "phone": "+1 918-493-3872",
+  "email": "",
+  "web": "https://gpsa.gpaglobal.org/",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f24375612640c17fd46"
+  },
+  "status": true,
+  "idPlatform": 39,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.247Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.247Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc9986"
+  },
+  "name": "María Concepción Antón Rubio",
+  "contactForm": "Rosario Betancourt",
+  "address": "Valladolid",
+  "phone": ".",
+  "email": "canton@usal.es",
+  "web": "",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f22375612640c17f0e9"
+  },
+  "status": true,
+  "idPlatform": 42,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.251Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.251Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc9987"
+  },
+  "name": "Miguel Angel Arconada Melero",
+  "contactForm": "Rosario Betancourt",
+  "address": "Paseo Nuestra Señora de los Ángeles 12 3º IZDA",
+  "phone": "979721427",
+  "email": "ma.arconada@hotmail.com",
+  "web": "",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f22375612640c17f0e1"
+  },
+  "status": true,
+  "idPlatform": 44,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.256Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.256Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc9988"
+  },
+  "name": "Francisco Giner Abati",
+  "contactForm": "Rosario Betancourt",
+  "address": "C. Covarrubias, 29, PO2, B",
+  "phone": ".",
+  "email": "abati@usal.es",
+  "web": "",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f22375612640c17f0df"
+  },
+  "status": true,
+  "idPlatform": 43,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.257Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.257Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc9989"
+  },
+  "name": "Antonio Portela Lopa",
+  "contactForm": "Rosario Betancourt",
+  "address": "Mercado Viejo, 4, 3º A",
+  "phone": "606520433",
+  "email": "antonioportela@usal.es",
+  "web": "",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f22375612640c17f102"
+  },
+  "status": true,
+  "idPlatform": 45,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.258Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.258Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc998a"
+  },
+  "name": "Daniel Escandell Montiel",
+  "contactForm": "Rosario Betancourt",
+  "address": "Paseo del rector Esperabé, nº89, 2-B",
+  "phone": "616306213",
+  "email": "danielescandell@usal.es",
+  "web": "",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f22375612640c17f103"
+  },
+  "status": true,
+  "idPlatform": 46,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.259Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.259Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc998b"
+  },
+  "name": "Lorenzo Hernández Martín",
+  "contactForm": "Rosario Betancourt",
+  "address": "C/ Villar del Profeta, nº 24, 4º A",
+  "phone": "923190045",
+  "email": "lorenhm@usal.es",
+  "web": "",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f22375612640c17f103"
+  },
+  "status": true,
+  "idPlatform": 47,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.261Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.261Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc998c"
+  },
+  "name": "Eva María Martínez Gallego",
+  "contactForm": "Rosario Betancourt",
+  "address": "Calle Green 7 Nº 7. Urb. La Valmuza. Doñinos de Salamanca 37120 Salamanca ",
+  "phone": "988687095",
+  "email": "kieva@usal.es",
+  "web": "",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f22375612640c17f112"
+  },
+  "status": true,
+  "idPlatform": 48,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.262Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.262Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc998d"
+  },
+  "name": "Juan Manuel Feito Trillo",
+  "contactForm": "Rosario Betancourt",
+  "address": "C/ de Torrelaguna nº 67 / 1º B.",
+  "phone": "914046435",
+  "email": "juanfeito@telefonica.net",
+  "web": "",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f22375612640c17f0df"
+  },
+  "status": true,
+  "idPlatform": 49,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.263Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.263Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc998e"
+  },
+  "name": "Jesús Esteban del Rey",
+  "contactForm": "Rosario Betancourt",
+  "address": "Paseo de la estación Nº 117-119 6º F ",
+  "phone": "923233844",
+  "email": "jrey017@gmail.com",
+  "web": "",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f22375612640c17f103"
+  },
+  "status": true,
+  "idPlatform": 50,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.264Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.264Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc998f"
+  },
+  "name": "Dario Gerardo Lamanna",
+  "contactForm": "Marco Calle",
+  "address": "José León Suárez, Nº 1586",
+  "phone": "541146875740",
+  "email": "dario.lamanna@yahoo.com",
+  "web": "",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f21375612640c17ee97"
+  },
+  "status": true,
+  "idPlatform": 51,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.265Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.265Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc9990"
+  },
+  "name": "Universidad Comillas de Madrid España",
+  "contactForm": "Profesor de la asignatura",
+  "address": ".",
+  "phone": "0",
+  "email": "",
+  "web": "https://repositorio.comillas.edu/xmlui/bitstream/handle/11531/303/TFG000336.pdf?sequence=1",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f22375612640c17f0df"
+  },
+  "status": true,
+  "idPlatform": 52,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.274Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.274Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc9991"
+  },
+  "name": "José Carlos Sánchez García",
+  "contactForm": "Rosario Betancourt",
+  "address": ".",
+  "phone": ".",
+  "email": "",
+  "web": "",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f22375612640c17f103"
+  },
+  "status": true,
+  "idPlatform": 53,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.275Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.275Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc9992"
+  },
+  "name": "José Aróstegui Moreno",
+  "contactForm": "Rosario Betancourt",
+  "address": ".",
+  "phone": ".",
+  "email": "",
+  "web": "",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f22375612640c17f103"
+  },
+  "status": true,
+  "idPlatform": 54,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.276Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.276Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc9993"
+  },
+  "name": "Marta Cerezo Prieto",
+  "contactForm": "Rosario Betancourt",
+  "address": ".",
+  "phone": ".",
+  "email": "",
+  "web": "",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f22375612640c17f103"
+  },
+  "status": true,
+  "idPlatform": 55,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.277Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.277Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc9994"
+  },
+  "name": "María Concepción Gorjón Barranco",
+  "contactForm": "Rosario Betancourt",
+  "address": ".",
+  "phone": ".",
+  "email": "",
+  "web": "",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f22375612640c17f103"
+  },
+  "status": true,
+  "idPlatform": 56,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.278Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.278Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc9995"
+  },
+  "name": "Nieves Sanz Mulas",
+  "contactForm": "Rosario Betancourt",
+  "address": ".",
+  "phone": ".",
+  "email": "",
+  "web": "",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f22375612640c17f103"
+  },
+  "status": true,
+  "idPlatform": 57,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.279Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.279Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc9996"
+  },
+  "name": "Julio Ballesteros Sánchez",
+  "contactForm": "Rosario Betancourt",
+  "address": ".",
+  "phone": ".",
+  "email": "",
+  "web": "",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f22375612640c17f103"
+  },
+  "status": true,
+  "idPlatform": 58,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.280Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.280Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc9997"
+  },
+  "name": "Luz María Palomero Rojo",
+  "contactForm": "Rosario Betancourt",
+  "address": ".",
+  "phone": ".",
+  "email": "",
+  "web": "",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f22375612640c17f103"
+  },
+  "status": true,
+  "idPlatform": 59,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.282Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.282Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc9998"
+  },
+  "name": "Laura Pascual Matellán",
+  "contactForm": "Rosario Betancourt",
+  "address": ".",
+  "phone": ".",
+  "email": "",
+  "web": "",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f22375612640c17f103"
+  },
+  "status": true,
+  "idPlatform": 60,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.283Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.283Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc9999"
+  },
+  "name": "Ana Belén Nieto Librero",
+  "contactForm": "Rosario Betancourt",
+  "address": ".",
+  "phone": ".",
+  "email": "",
+  "web": "",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f22375612640c17f103"
+  },
+  "status": true,
+  "idPlatform": 62,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.287Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.287Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc999a"
+  },
+  "name": "María Amor Díaz Garcí­a",
+  "contactForm": "Rosario Betancourt",
+  "address": ".",
+  "phone": ".",
+  "email": "",
+  "web": "",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f22375612640c17f103"
+  },
+  "status": true,
+  "idPlatform": 67,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.287Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.287Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc999b"
+  },
+  "name": "Adán Carrizo González-Castell",
+  "contactForm": "Rosario Betancourt",
+  "address": ".",
+  "phone": ".",
+  "email": "",
+  "web": "",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f22375612640c17f103"
+  },
+  "status": true,
+  "idPlatform": 61,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.288Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.288Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc999c"
+  },
+  "name": "Raquel Guzmán Ordaz",
+  "contactForm": "Rosario Betancourt",
+  "address": ".",
+  "phone": ".",
+  "email": "",
+  "web": "",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f22375612640c17f103"
+  },
+  "status": true,
+  "idPlatform": 63,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.289Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.289Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc999d"
+  },
+  "name": "Miguel Perez Fernandez",
+  "contactForm": "Rosario Betancourt",
+  "address": "Salamanca",
+  "phone": ".",
+  "email": "",
+  "web": "",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f22375612640c17f103"
+  },
+  "status": true,
+  "idPlatform": 66,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.290Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.290Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc999e"
+  },
+  "name": "Lina Mariola Díaz Cortés",
+  "contactForm": "Rosario Betancourt",
+  "address": ".",
+  "phone": ".",
+  "email": "",
+  "web": "",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f24375612640c17fe84"
+  },
+  "status": true,
+  "idPlatform": 64,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.291Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.291Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc999f"
+  },
+  "name": "Carla Martinez Nyman",
+  "contactForm": "Rosario Betancourt",
+  "address": ".",
+  "phone": ".",
+  "email": "carlaamartinezz@gmail.com",
+  "web": "",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f24375612640c17fe84"
+  },
+  "status": true,
+  "idPlatform": 65,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.292Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.292Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc99a0"
+  },
+  "name": "Iberoamericana vervuert",
+  "contactForm": "Yandrek",
+  "address": ".",
+  "phone": ".",
+  "email": "",
+  "web": "",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f24375612640c17fe84"
+  },
+  "status": true,
+  "idPlatform": 69,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.299Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.299Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148adac2a4a5d0c14bc99a1"
+  },
+  "name": "Benjamín Clark",
+  "contactForm": "Dra. rosario",
+  "address": "0",
+  "phone": "0",
+  "email": "",
+  "web": "",
+  "country": {
+    "$oid": "61426f1a375612640c17eda6"
+  },
+  "city": {
+    "$oid": "61426f24375612640c17fe84"
+  },
+  "status": true,
+  "idPlatform": 72,
+  "createdAt": {
+    "$date": "2021-09-20T15:50:04.300Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-20T15:50:04.300Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,193 @@
+[{
+  "_id": {
+    "$oid": "61494c1764878f07e45348a6"
+  },
+  "name": "Adobe DRM",
+  "shortName": "adedrm",
+  "status": true,
+  "guide": null,
+  "idPlatform": 1,
+  "createdAt": {
+    "$date": "2021-09-21T03:05:59.110Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-21T03:05:59.110Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61494c1764878f07e45348b0"
+  },
+  "name": "PDF",
+  "shortName": "pdf",
+  "status": true,
+  "guide": null,
+  "idPlatform": 1,
+  "createdAt": {
+    "$date": "2021-09-21T03:05:59.111Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-21T03:05:59.111Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61494c1764878f07e45348b1"
+  },
+  "name": "PDF Cifrados",
+  "shortName": "pdfcifra",
+  "status": true,
+  "guide": null,
+  "idPlatform": 1,
+  "createdAt": {
+    "$date": "2021-09-21T03:05:59.111Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-21T03:05:59.111Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61494c1764878f07e45348a7"
+  },
+  "name": "Kindle Amazon",
+  "shortName": "amazon",
+  "status": true,
+  "guide": null,
+  "idPlatform": 1,
+  "createdAt": {
+    "$date": "2021-09-21T03:05:59.110Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-21T03:05:59.110Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61494c1764878f07e45348a9"
+  },
+  "name": "Biblioteca UVirtual",
+  "shortName": "bbuv",
+  "status": true,
+  "guide": null,
+  "idPlatform": 1,
+  "createdAt": {
+    "$date": "2021-09-21T03:05:59.110Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-21T03:05:59.110Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61494c1764878f07e45348aa"
+  },
+  "name": "Bookshelf",
+  "shortName": "bookshelf",
+  "status": true,
+  "guide": null,
+  "idPlatform": 1,
+  "createdAt": {
+    "$date": "2021-09-21T03:05:59.110Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-21T03:05:59.110Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61494c1764878f07e45348ab"
+  },
+  "name": "DRM Pearson",
+  "shortName": "drmpearson",
+  "status": true,
+  "guide": null,
+  "idPlatform": 1,
+  "createdAt": {
+    "$date": "2021-09-21T03:05:59.111Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-21T03:05:59.111Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61494c1764878f07e45348ac"
+  },
+  "name": "ePub",
+  "shortName": "epub",
+  "status": true,
+  "guide": null,
+  "idPlatform": 1,
+  "createdAt": {
+    "$date": "2021-09-21T03:05:59.111Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-21T03:05:59.111Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61494c1764878f07e45348ad"
+  },
+  "name": "Libro",
+  "shortName": "libro",
+  "status": true,
+  "guide": null,
+  "idPlatform": 1,
+  "createdAt": {
+    "$date": "2021-09-21T03:05:59.111Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-21T03:05:59.111Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61494c1764878f07e45348ae"
+  },
+  "name": "Mobi",
+  "shortName": "mobi",
+  "status": true,
+  "guide": null,
+  "idPlatform": 1,
+  "createdAt": {
+    "$date": "2021-09-21T03:05:59.111Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-21T03:05:59.111Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61494c1764878f07e45348af"
+  },
+  "name": "Ninguno",
+  "shortName": "ninguno",
+  "status": true,
+  "guide": null,
+  "idPlatform": 1,
+  "createdAt": {
+    "$date": "2021-09-21T03:05:59.111Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-21T03:05:59.111Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61494c1764878f07e45348a8"
+  },
+  "name": "Kindle Amazon Redimido",
+  "shortName": "amazonv2",
+  "status": true,
+  "guide": null,
+  "idPlatform": 1,
+  "createdAt": {
+    "$date": "2021-09-21T03:05:59.110Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-21T03:05:59.110Z"
+  },
+  "__v": 0
+}]

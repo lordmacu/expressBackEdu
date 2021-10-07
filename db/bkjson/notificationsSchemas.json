@@ -1,0 +1,137 @@
+[{
+  "_id": {
+    "$oid": "6142a08dd1cd585754fecf89"
+  },
+  "aggrement": {
+    "$oid": "6142a045d1cd585754fecf85"
+  },
+  "name": "UNAP:5semanas",
+  "status": true,
+  "idPlatform": 1,
+  "createdAt": {
+    "$date": "2021-09-16T01:40:29.228Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-16T01:40:29.228Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6142a08dd1cd585754fecf8a"
+  },
+  "aggrement": {
+    "$oid": "6142a045d1cd585754fecf84"
+  },
+  "name": "USAL:5semanas",
+  "status": true,
+  "idPlatform": 2,
+  "createdAt": {
+    "$date": "2021-09-16T01:40:29.230Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-16T01:40:29.230Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6142a08dd1cd585754fecf8b"
+  },
+  "aggrement": {
+    "$oid": "6142a045d1cd585754fecf86"
+  },
+  "name": "EDUCON:5semanas",
+  "status": true,
+  "idPlatform": 3,
+  "createdAt": {
+    "$date": "2021-09-16T01:40:29.231Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-16T01:40:29.231Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6142a08dd1cd585754fecf8c"
+  },
+  "aggrement": {
+    "$oid": "6142a045d1cd585754fecf85"
+  },
+  "name": "UNAP:5semanas - ELECTIVA",
+  "status": true,
+  "idPlatform": 4,
+  "createdAt": {
+    "$date": "2021-09-16T01:40:29.233Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-16T01:40:29.233Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6142a41ab7435d0b00adc3c2"
+  },
+  "aggrement": {
+    "$oid": "6142a045d1cd585754fecf85"
+  },
+  "name": "UNAP:5semanas",
+  "status": true,
+  "idPlatform": 1,
+  "createdAt": {
+    "$date": "2021-09-16T01:55:38.747Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-16T01:55:38.747Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6142a41ab7435d0b00adc3c3"
+  },
+  "aggrement": {
+    "$oid": "6142a045d1cd585754fecf84"
+  },
+  "name": "USAL:5semanas",
+  "status": true,
+  "idPlatform": 2,
+  "createdAt": {
+    "$date": "2021-09-16T01:55:38.750Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-16T01:55:38.750Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6142a41ab7435d0b00adc3c4"
+  },
+  "aggrement": {
+    "$oid": "6142a045d1cd585754fecf86"
+  },
+  "name": "EDUCON:5semanas",
+  "status": true,
+  "idPlatform": 3,
+  "createdAt": {
+    "$date": "2021-09-16T01:55:38.752Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-16T01:55:38.752Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6142a41ab7435d0b00adc3c5"
+  },
+  "aggrement": {
+    "$oid": "6142a045d1cd585754fecf85"
+  },
+  "name": "UNAP:5semanas - ELECTIVA",
+  "status": true,
+  "idPlatform": 4,
+  "createdAt": {
+    "$date": "2021-09-16T01:55:38.753Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-16T01:55:38.753Z"
+  },
+  "__v": 0
+}]
