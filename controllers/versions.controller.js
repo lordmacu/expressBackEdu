@@ -1,4 +1,4 @@
-const Items = require("../dao/versions");
+const Items = require("../dao/versionsPrograms");
 
 exports.createItem = function (req, res, next) {
   var item = {};
@@ -58,7 +58,7 @@ exports.find = function (req, res, next) {
 };
 
 exports.getProgramItem = function (req, res, next) {
-  let query = { program: req.params.program, active: true };
+  let query = { program: req.params.program, status: true };
   let queryParams = [];
 
   Items.paginate(query, {}, function (err, result) {
@@ -73,7 +73,7 @@ exports.getProgramItem = function (req, res, next) {
 };
 
 exports.getItems = function (req, res, next) {
-  let query = { active: true };
+  let query = { status: true };
   let queryParams = [];
 
   Items.paginate(query, {}, function (err, result) {
@@ -123,7 +123,7 @@ exports.updateItem = function (req, res, next) {
 };
 
 exports.removeItem = function (req, res, next) {
-  Items.update({ _id: req.params.id }, { active: false }, function (err, item) {
+  Items.update({ _id: req.params.id }, { status: false }, function (err, item) {
     if (err) {
       res.json({
         error: err,

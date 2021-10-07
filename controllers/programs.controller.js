@@ -44,7 +44,7 @@ exports.createItem = async function (req, res, next) {
 };
 
 exports.getItems = function (req, res, next) {
-  let query = { active: true };
+  let query = { status: true };
   let queryParams = [];
 
   if (!!req.body.q) {

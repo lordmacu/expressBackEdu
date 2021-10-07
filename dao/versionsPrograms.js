@@ -1,5 +1,5 @@
 var mongoose = require('mongoose');
-var itemSchema = require('../schemas/version');
+var itemSchema = require('../schemas/versionsPrograms');
 const mongoosePaginate = require('mongoose-paginate-v2');
 
 itemSchema.statics = {
@@ -32,5 +32,5 @@ itemSchema.statics = {
 }
 itemSchema.plugin(mongoosePaginate);
 
-var itemModel = mongoose.model('Version', itemSchema);
+var itemModel = mongoose.model('VersionsPrograms', itemSchema,'versionsPrograms');
 module.exports = itemModel;
