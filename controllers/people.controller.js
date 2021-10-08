@@ -1,4 +1,6 @@
 const Items = require('../dao/people');
+var mongoose = require('mongoose');
+const { ObjectId } = mongoose.Types;
 
 exports.createItem = function (req, res, next) {
        
@@ -71,6 +73,100 @@ exports.getItems = function(req, res, next) {
 
 exports.getItem = function(req, res, next) {
     Items.get({_id: req.params.id}, function(err, items) {
+        if(err) {
+            res.json({
+                error: err
+            })
+        }else{
+            res.json({
+                items: items
+            })
+        }
+        
+    })
+}
+
+exports.getItemStudents = function(req, res, next) {
+    Items.getStudents(
+        {
+            status: true,
+            typesPeople: 
+            {
+                $all: [ ObjectId(process.env.ID_ESTUDIANTE) ]
+            }
+        }
+            //_id: process.env.ID_ESTUDIANTE
+            
+      , function(err, items) {
+        if(err) {
+            res.json({
+                error: err
+            })
+        }else{
+            res.json({
+                items: items
+            })
+        }
+        
+    })
+}
+
+exports.getItemTutors = function(req, res, next) {
+    Items.getTutors(
+        {
+            status: true,
+            typesPeople: 
+            {
+                $all: [ ObjectId(process.env.ID_TUTOR) ]
+            }
+        }
+      , function(err, items) {
+        if(err) {
+            res.json({
+                error: err
+            })
+        }else{
+            res.json({
+                items: items
+            })
+        }
+        
+    })
+}
+
+exports.getItemCoordinadores = function(req, res, next) {
+    Items.getCoordinadores(
+        {
+            status: true,
+            typesPeople: 
+            {
+                $all: [ ObjectId(process.env.ID_COORDINADOR) ]
+            }
+        }
+      , function(err, items) {
+        if(err) {
+            res.json({
+                error: err
+            })
+        }else{
+            res.json({
+                items: items
+            })
+        }
+        
+    })
+}
+
+exports.getItemDirectores = function(req, res, next) {
+    Items.getDirectores(
+        {
+            status: true,
+            typesPeople: 
+            {
+                $all: [ ObjectId(process.env.ID_DIRECTOR) ]
+            }
+        }
+      , function(err, items) {
         if(err) {
             res.json({
                 error: err
