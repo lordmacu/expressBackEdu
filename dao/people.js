@@ -16,6 +16,21 @@ personSchema.statics = {
         this.find(query, cb);
     },
 
+    getStudents: function(query, cb) {
+        this.find(query, cb);
+    },
+
+    getTutors: function(query, cb) {
+        this.find(query, cb);
+    },
+
+    getCoordinadores: function(query, cb) {
+        this.find(query, cb);
+    },
+    getDirectores: function(query, cb) {
+        this.find(query, cb);
+    },
+
     update: function(query, updateData, cb) {
         this.findOneAndUpdate(query, {$set: updateData},{new: true}, cb);
     },
