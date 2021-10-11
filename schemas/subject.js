@@ -15,13 +15,13 @@ var itemSchema = new Schema(
     startDate: Date,
     endDate: Date,
     active: Boolean,
-    statusSubjects: {
+    statusSubject: {
       type: Schema.Types.ObjectId,
       ref: "statusSubjects",
     },
     type: {
       type: Schema.Types.ObjectId,
-      ref: "Type",
+      ref: "typesSubjects",
     },
     principalTutor: {
       type: Schema.Types.ObjectId,
@@ -42,3 +42,8 @@ var itemSchema = new Schema(
 );
 
 module.exports = itemSchema;
+
+
+//614272af375612640c182d2e
+
+//614272af375612640c182d2d

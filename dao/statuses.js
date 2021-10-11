@@ -9,7 +9,7 @@ itemSchema.statics = {
     },
 
     get: function(query, cb) {
-        this.findOne(query, cb).populate('country');
+        this.findOne(query, cb);
     },
 
     getByName: function(query, cb) {
@@ -35,5 +35,6 @@ itemSchema.statics = {
 }
 itemSchema.plugin(mongoosePaginate);
 
-var itemModel = mongoose.model('Status', itemSchema);
-module.exports = itemModel;
+ module.exports = mongoose.model('statusSubjects', itemSchema,'statusSubjects');
+
+ 

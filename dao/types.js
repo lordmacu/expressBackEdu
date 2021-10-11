@@ -36,5 +36,5 @@ itemSchema.statics = {
 }
 itemSchema.plugin(mongoosePaginate);
 
-var itemModel = mongoose.model('Type', itemSchema);
-module.exports = itemModel;
+ module.exports = mongoose.model('typesSubjects', itemSchema,'typesSubjects');
+ 

@@ -78,6 +78,7 @@ exports.find = function (req, res, next) {
 
 exports.getItems = function (req, res, next) {
  let query = { active: true };
+ 
   let queryParams = [];
 
   if (!!req.body.q) {
@@ -107,7 +108,7 @@ exports.getItems = function (req, res, next) {
       page: req.body.page,
       limit: req.body.perPage,
       sort: sort,
-      populate: ["type","statusSubjects", "tutors", "principalTutor", "students"],
+      populate: ["type","statusSubject", "tutors", "principalTutor", "students"],
     },
     function (err, result) {
       res.json(result);

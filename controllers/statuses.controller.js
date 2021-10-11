@@ -7,11 +7,12 @@ exports.getItems = function (req, res, next) {
 
   Items.paginate(query, {}, function (err, result) {
     if (err) {
+ 
       res.json({
         error: err,
       });
     } else {
-
+ 
   
        var formatedResults=[];
         result.docs.forEach(element => {
