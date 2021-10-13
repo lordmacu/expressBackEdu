@@ -1,14 +1,8 @@
 var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
 var itemSchema = new Schema({
+    name:String,
     sigla:String,
-  
-   name:String,
-    agreement:{
-        type:Schema.Types.ObjectId,
-        ref:"Aggrement"
-    },
-    description:String,
     directorAcad:{
         type:Schema.Types.ObjectId,
         ref:"Person"
@@ -17,21 +11,31 @@ var itemSchema = new Schema({
         type:Schema.Types.ObjectId,
         ref:"Person"
     },
-    studentProfile: String,
-    name: String,
+    price:Number,
+    numberCredits:Number,
+    approvalNote: Number,
+    nroSubjects: Number,
+    agreement:{
+        type:Schema.Types.ObjectId,
+        ref:"Aggrement"
+    },
     reglamento: String,
     brochure:String,
+    presupuesto:String,
     title:String,
-    price:Number,
+    description:String,
+    studentProfile: String,
+    observation: String,
+    status: Boolean,
+
     period:Number,
     year:Number,
     startDate:Date,
     endDate: Date,
-    active: Boolean,
-    idPlatform: Number,
-    subjects : [
-        {type: Schema.Types.ObjectId,ref:'Subject'}
-    ],
+    idPlatform: Number
+    // subjects : [
+    //     {type: Schema.Types.ObjectId,ref:'Subject'}
+    // ],
 
 
 }, {

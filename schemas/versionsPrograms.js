@@ -17,7 +17,7 @@ var itemSchema = new Schema({
     priceTutorTfm:Number,
     startDate:Date,
     endDate: Date,
-    active: Boolean,
+    status: Boolean,
         idPlatform:Number
 
  
