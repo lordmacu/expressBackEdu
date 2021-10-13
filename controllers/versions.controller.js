@@ -123,7 +123,7 @@ exports.updateItem = function (req, res, next) {
 };
 
 exports.removeItem = function (req, res, next) {
-  Items.update({ _id: req.params.id }, { status: false }, function (err, item) {
+  Items.update({ program: req.params.id }, { status: false }, function (err, item) {
     if (err) {
       res.json({
         error: err,
