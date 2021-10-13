@@ -32,6 +32,51 @@ exports.createResources = function (req, res, next) {
   );
 };
 
+exports.getResource = function (req, res, next) {
+  var collection = getResourceModel(
+    '{"fields":"String","name":"String"}',
+    "resources"
+  );
+
+
+  collection.findOne({ name: req.body.model }, function (err, item) {
+    if (err) {
+      res.json({
+        error: err
+      });
+    }
+    res.json({
+      message: "resourceListed",
+      data: item
+    });
+  });
+};
+
+exports.getItem = function (req, res, next) {
+  var collection = getResourceModel(
+    '{"fields":"String","name":"String"}',
+    "resources"
+  );
+
+  collection.findOne({ name: req.body.model }, function (err, item) {
+    if (err) {
+      res.json({
+        error: err
+      });
+    }
+
+    var collectionResource = getResourceModel(item.fields, item.name);
+    req.body.where["status"] = true;
+    collectionResource.findOne(req.body.where, function (err, itemResource) {
+      res.json({
+        message: "Items listed",
+        data: itemResource
+      });
+    });
+  });
+};
+
+
 exports.getItems = function (req, res, next) {
   var collection = getResourceModel(
     '{"fields":"String","name":"String"}',
@@ -96,6 +141,7 @@ exports.updateItem = function (req, res, next) {
       });
     }
 
+    
     var collectionResource = getResourceModel(item.fields, item.name);
 
     collectionResource.update({ _id: req.params.id }, req.body.update, function (err, itemResource) {
@@ -108,16 +154,15 @@ exports.updateItem = function (req, res, next) {
 };
 
 exports.removeItem = function (req, res, next) {
-  let item = req.body;
-  let id = item.id;
   
+
 
   var collection = getResourceModel(
     '{"fields":"String","name":"String"}',
     "resources"
   );
 
-  collection.findOne({ name: req.body.model }, function (err, item) {
+  collection.findOne({ name: req.params.model }, function (err, item) {
     if (err) {
       res.json({
         error: err
@@ -126,7 +171,7 @@ exports.removeItem = function (req, res, next) {
 
     var collectionResource = getResourceModel(item.fields, item.name);
 
-    collectionResource.update({ _id:  req.params.id }, { status: false }, function (
+    collectionResource.update({ _id: req.params.id }, { status: false }, function (
       err,
       itemResource
     ) {
