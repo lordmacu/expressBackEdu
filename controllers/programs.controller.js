@@ -6,7 +6,7 @@ exports.createItem = async function (req, res, next) {
   if (item.id == 0) {
     delete req.body.id;
   }
-  item.active = true;
+  item.status = true;
 
   if (!!req.body.reglamento) {
     if (!!req.body.reglamento.file) {
@@ -27,6 +27,17 @@ exports.createItem = async function (req, res, next) {
       );
 
       item.brochure = brochure;
+    }
+  }
+
+  if (!!req.body.presupuesto) {
+    if (!!req.body.presupuesto.file) {
+      const presupuesto = await Helpers.upload(
+        req.body.presupuesto.file,
+        "presupuestos/"
+      );
+
+      item.presupuesto = presupuesto;
     }
   }
 
@@ -58,7 +69,7 @@ exports.getItems = function (req, res, next) {
       };
       queryParams.push(queryData);
     }
-    query = { $or: queryParams, active: true };
+    query = { $or: queryParams, status: true };
   }
 
   const sort = {};
@@ -206,6 +217,17 @@ exports.updateItem = async function (req, res, next) {
     }
   }
 
+  if (!!req.body.presupuesto) {
+    if (!!req.body.presupuesto.file) {
+      const presupuesto = await Helpers.upload(
+        req.body.presupuesto.file,
+        "presupuestos/"
+      );
+
+      item.presupuesto = presupuesto;
+    }
+  }
+
   Items.update({ _id: id }, item, function (err, item) {
     if (err) {
       res.json({
@@ -219,7 +241,7 @@ exports.updateItem = async function (req, res, next) {
 };
 
 exports.removeItem = function (req, res, next) {
-  Items.update({ _id: req.params.id }, { active: false }, function (err, item) {
+  Items.update({ _id: req.params.id }, { status: false }, function (err, item) {
     if (err) {
       res.json({
         error: err,

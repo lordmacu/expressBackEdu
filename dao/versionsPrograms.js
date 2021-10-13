@@ -17,6 +17,7 @@ itemSchema.statics = {
     },
 
     update: function(query, updateData, cb) {
+        console.log(query, updateData);
         this.findOneAndUpdate(query, {$set: updateData},{new: true}, cb);
     },
 
